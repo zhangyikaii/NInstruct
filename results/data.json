@@ -1,0 +1,2602 @@
+[
+    {
+        "id": "0000000000",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000000-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将调料全部混合腌制五花肉，叉烧酱的量得以没过肉为准，腌制的时间至少是24小时，我一般腌30个小时左右，每7、8个小时翻动一次。"
+            }
+        ]
+    },
+    {
+        "id": "0000000001",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000001-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "腌制好后就开始烤了，烤箱200度预热5分钟，烤盘用锡纸包好备用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000002",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000002-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将腌好的肉放在上面。"
+            }
+        ]
+    },
+    {
+        "id": "0000000003",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000003-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "在入炉之前，再在表面刷一遍腌料。"
+            }
+        ]
+    },
+    {
+        "id": "0000000004",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000004-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将五花肉放入预热好的烤箱开始烤制。"
+            }
+        ]
+    },
+    {
+        "id": "0000000005",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000005-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "烤20分钟后取出，翻面，刷料再次入炉烤15分钟就好了！不要介意有点焦，这才香呢。"
+            }
+        ]
+    },
+    {
+        "id": "0000000006",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000006-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "烤好的肉不要急于拿出来，在烤箱内稍焖一会儿再拿出来，不那么烫手了就可以切片了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000007",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000007-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "剩下的腌料也不要浪费，小火熬熟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000008",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1527-0000000008-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将熬熟的腌料汁浇在切好的叉烧肉上就可以了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000009",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000009-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "全部食材。"
+            }
+        ]
+    },
+    {
+        "id": "0000000010",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000010-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用葱、姜、八角、香叶、盐、黄酒把鸡翅腌30分钟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000011",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000011-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把麦芽糖、米醋、黄酒混合搅匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000012",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000012-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "糖醋黄酒汁里放入黑胡椒酱拌匀备用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000013",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000013-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "烧锅开水。"
+            }
+        ]
+    },
+    {
+        "id": "0000000014",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000014-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把鸡翅连同葱姜八角等烫一遍，放入即捞，俗话讲，叫“烫皮”。"
+            }
+        ]
+    },
+    {
+        "id": "0000000015",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000015-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把烫好皮的鸡翅葱姜八角捞出，控净水放入糖醋黑胡椒汁拌匀，稍腌10分钟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000016",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000016-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把鸡翅整齐的码放在烤架上。"
+            }
+        ]
+    },
+    {
+        "id": "0000000017",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000017-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "往腌鸡翅滗出的汁里放入一点点淀粉，糖醋黑胡椒汁在调料盆里，把调料盆儿隔着开水搅拌一下，稍稠即可。"
+            }
+        ]
+    },
+    {
+        "id": "0000000018",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000018-what_is_step_img_doing-9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "鸡翅晾10几分钟涂上打好淀粉的腌料，再继续晾半小时皮干即可；"
+            }
+        ]
+    },
+    {
+        "id": "0000000019",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000019-what_is_step_img_doing-10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "晾好的鸡翅放入垫好烤纸的烤盘，烤架和烤盘要有一定的间隙，如烤架不带支架可垫点儿东西。"
+            }
+        ]
+    },
+    {
+        "id": "0000000020",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000020-what_is_step_img_doing-11.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0000000021",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000021-what_is_step_img_doing-12.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "然后放入预热好的烤箱中架。"
+            }
+        ]
+    },
+    {
+        "id": "0000000022",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4668-0000000022-what_is_step_img_doing-13.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把烤箱上下火调到220度烤20分钟即可。"
+            }
+        ]
+    },
+    {
+        "id": "0000000023",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000023-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "白菜洗净，空干。"
+            }
+        ]
+    },
+    {
+        "id": "0000000024",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000024-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "配料。"
+            }
+        ]
+    },
+    {
+        "id": "0000000025",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000025-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把苹果，梨，姜，蒜．切成末（我比较懒，用料理机搅拌起来的．）萝卜切成丝．（呵呵．我切的比较粉粗）韭菜切成断。虾皮切成末。"
+            }
+        ]
+    },
+    {
+        "id": "0000000026",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000026-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用盐把洗净的白菜，用盐腌起来，一层层正反面都要摸到，菜叶可以稍带一下，不用太多的盐，因为菜叶很容易入味，摸好后放置一晚。"
+            }
+        ]
+    },
+    {
+        "id": "0000000027",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000027-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "糯米粉用开水拦均。（大家一定要先拿开水拌好了在上锅里煮，我就是急了。直接倒锅里了，上面有克粒状的）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000028",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000028-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "拌开后，开火煮，要不停的搅拌，要不会糊底的，一直接到有点透明了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000029",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000029-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "等糯米冷了后．把准备好的配料.再加上点盐．鸡精．拌进去。"
+            }
+        ]
+    },
+    {
+        "id": "0000000030",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000030-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "忘记了，还有最重要的辣椒粉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000031",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000031-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把盐好的白菜．用水洗掉．剩下一点点咸味．把材料摸到白菜上．要均匀哦．　然后把摸好的．卷起来．放到盒子里封好．大概一两天就可以吃了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000032",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1071-0000000032-what_is_step_img_doing-9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "配饭不错，很好吃呢。"
+            }
+        ]
+    },
+    {
+        "id": "0000000033",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000033-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "三文鱼洗净。洋葱切丝。洋葱是必备的，既增加香味也除去海鲜的腥味儿。"
+            }
+        ]
+    },
+    {
+        "id": "0000000034",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000034-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "在烤盘上铺上锡纸。手头正好有个现成的锡纸盒，就用它了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000035",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000035-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "在锡纸上抹上少许黄油或倒上少许精制油。"
+            }
+        ]
+    },
+    {
+        "id": "0000000036",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000036-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "以防鱼皮沾底。"
+            }
+        ]
+    },
+    {
+        "id": "0000000037",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000037-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "倒入少许生抽，其实这里用鲜酱油更好，但是手头没有，所以用生抽代替。"
+            }
+        ]
+    },
+    {
+        "id": "0000000038",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000038-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用手把生抽均匀的涂抹在鱼肉上（如有小刷子，也可用刷子把酱油刷上，这样更均匀）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000039",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000039-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "洒上细盐，同样用手抹匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000040",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000040-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "洒上黑胡椒粉，用手抹匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000041",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000041-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把切好的洋葱丝均匀的铺盖在鱼肉上。"
+            }
+        ]
+    },
+    {
+        "id": "0000000042",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000042-what_is_step_img_doing-9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "在表面铺上一层锡纸，此步骤重要。锡纸的作用是保温，而且不会出现“面上烤老了，里面还没熟”的情况。烤箱预热2分钟，然后送入烤箱，200摄氏度14分钟（我家的烤箱是用电的，因为有网友问，所以估计是用电的和用煤气的功率不同，这里就补充了）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000043",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000043-what_is_step_img_doing-10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备好新鲜柠檬。"
+            }
+        ]
+    },
+    {
+        "id": "0000000044",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000044-what_is_step_img_doing-11.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "沾料调的是日本芥末（芥末挤的好丑啊）加日本酱油（家里没有日本酱油，就用普通代替了）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000045",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000045-what_is_step_img_doing-12.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "考完出炉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000046",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000046-what_is_step_img_doing-13.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "好香~~装盘。"
+            }
+        ]
+    },
+    {
+        "id": "0000000047",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1375-0000000047-what_is_step_img_doing-14.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "挤上柠檬汁，即可食用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000048",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1317-0000000048-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "泡好的红小豆滤净水，再加清水。（红小豆提前用水泡一个晚上，这样比较好熟，不泡煮的时间就相当长了）"
+            }
+        ]
+    },
+    {
+        "id": "0000000049",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1317-0000000049-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "开中火煮开后，转微小火慢慢熬。（不要糊锅）"
+            }
+        ]
+    },
+    {
+        "id": "0000000050",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1317-0000000050-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将红豆煮软，水份基本煮干。"
+            }
+        ]
+    },
+    {
+        "id": "0000000051",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1317-0000000051-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "加入炼乳（奶）（个人觉得罐装的那个更浓稠些，比较好），不要关火。"
+            }
+        ]
+    },
+    {
+        "id": "0000000052",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1317-0000000052-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用木铲不断搅拌均匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000053",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1317-0000000053-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "搅拌至水份蒸干即可得到红豆沙。"
+            }
+        ]
+    },
+    {
+        "id": "0000000054",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1317-0000000054-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "可以直接食用，或者做馅儿料。"
+            }
+        ]
+    },
+    {
+        "id": "0000000055",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000055-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "牛肉收拾干净，切成粒，小手指大小的粒。（切成粒的牛肉3.5斤）"
+            }
+        ]
+    },
+    {
+        "id": "0000000056",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000056-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "欣和豆瓣酱6包，永川豆鼔3包。"
+            }
+        ]
+    },
+    {
+        "id": "0000000057",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000057-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "十三香，熟芝麻，辣椒粉，另准备糖2勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000058",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000058-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "花生：麻辣花生。"
+            }
+        ]
+    },
+    {
+        "id": "0000000059",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000059-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "花生装进厚的保鲜袋，用擀面杖压碎。"
+            }
+        ]
+    },
+    {
+        "id": "0000000060",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000060-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "差不多就行。"
+            }
+        ]
+    },
+    {
+        "id": "0000000061",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000061-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "半锅热油。"
+            }
+        ]
+    },
+    {
+        "id": "0000000062",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000062-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把牛肉粒放进去基本上可以盖住牛肉粒的样子；先大火后中小火，慢慢的把牛肉粒炸至没有水分，但是别太焦啦。"
+            }
+        ]
+    },
+    {
+        "id": "0000000063",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000063-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把肉炸成这样就差不多了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000064",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000064-what_is_step_img_doing-9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "在炸好的牛肉中加入切碎的豆鼔，中小火炒散，改小火炒2分钟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000065",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000065-what_is_step_img_doing-10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "加入豆瓣酱，一定用小火翻炒避免糊锅。"
+            }
+        ]
+    },
+    {
+        "id": "0000000066",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000066-what_is_step_img_doing-11.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "酱和豆鼔牛肉充分的混合后加入碎花生米，用小火搅拌均匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000067",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000067-what_is_step_img_doing-12.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放十三香，一大把熟芝麻孜然，炒匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000068",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3454-0000000068-what_is_step_img_doing-13.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "小火慢慢的咕嘟一会儿，但是一定要小心别糊锅了，最后关火放凉就好。"
+            }
+        ]
+    },
+    {
+        "id": "0000000069",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000069-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "糯米浸泡一夜，让其吸足水份。"
+            }
+        ]
+    },
+    {
+        "id": "0000000070",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000070-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "上锅蒸二十五分钟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000071",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000071-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "蒸好后，晶莹剔透哈。"
+            }
+        ]
+    },
+    {
+        "id": "0000000072",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000072-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用一个干净无水无油的器皿。"
+            }
+        ]
+    },
+    {
+        "id": "0000000073",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000073-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "蒸好的糯米晾到温热（30度左右吧），撒入甜酒曲（袋子上有说明的，按米量放，稍稍多放一点也没关系）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000074",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000074-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "倒少量的凉白开拌匀，用勺子按实，再在中间挖个小眼。"
+            }
+        ]
+    },
+    {
+        "id": "0000000075",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000075-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "盖上盖儿，静置一边（根据室温的哈，室温高时间短些，室温低时间就长些哈）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000076",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000076-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "二天后发酵了，再加些凉白开拌匀(为了有更多的汁)，用勺子按实，中间挖小眼，再静置一边。（这一步我以前也是省略的，但为了能吃到多汁儿的酒酿，这一步骤还是必需滴~~~）"
+            }
+        ]
+    },
+    {
+        "id": "0000000077",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000077-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "二十四后再取出酒酿-----甜甜滴，糯糯滴，呵呵，一激动，吃了再拍滴。"
+            }
+        ]
+    },
+    {
+        "id": "0000000078",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3810-0000000078-what_is_step_img_doing-9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "安琪甜酒曲。"
+            }
+        ]
+    },
+    {
+        "id": "0000000079",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4376-0000000079-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备好新鲜的大蒜。"
+            }
+        ]
+    },
+    {
+        "id": "0000000080",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4376-0000000080-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将鲜蒜去须茎，剥去外皮，放在清水中泡3天（每天换2到3次水，以去掉蒜的异味）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000081",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4376-0000000081-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "泡好的蒜捞出，沥干水份。"
+            }
+        ]
+    },
+    {
+        "id": "0000000082",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4376-0000000082-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把蒜放入容器中，一层蒜洒一层盐，每天翻动一次。"
+            }
+        ]
+    },
+    {
+        "id": "0000000083",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4376-0000000083-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "腌到第四天的时候把蒜捞出，沥水，晒干。"
+            }
+        ]
+    },
+    {
+        "id": "0000000084",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4376-0000000084-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "锅中放3500克水，加入红糖，醋，煮开。"
+            }
+        ]
+    },
+    {
+        "id": "0000000085",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4376-0000000085-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "端离火口，放凉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000086",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4376-0000000086-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将晒好的蒜放入坛子中，倒入放凉的糖醋水，腌大约一个月左右即可食用了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000087",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4814-0000000087-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "鲷鱼解冻后，放入锅中，加少量水，盐、大块的葱姜、料酒、生抽，把鱼肉煮熟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000088",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4814-0000000088-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "鱼肉煮熟后，把葱姜拣出来不用，然后把汤汁烧干，鱼肉捣碎。"
+            }
+        ]
+    },
+    {
+        "id": "0000000089",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4814-0000000089-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "最好是把鱼肉盛出来，把锅刷干净了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000090",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4814-0000000090-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "锅内加油，跟炒菜差不多就好，然后把鱼肉倒进去；这个时候把铲子换成手动打蛋器，小火，不断的翻炒鱼肉，把鱼肉捣得更碎一些。"
+            }
+        ]
+    },
+    {
+        "id": "0000000091",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4814-0000000091-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "这个时候鱼肉已经越来越干，加红糖，炒匀，继续不断的翻炒，把糖炒化了，炒匀了，让鱼肉更好的上色。"
+            }
+        ]
+    },
+    {
+        "id": "0000000092",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4814-0000000092-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "最后剩下的就是不断的翻炒啊翻炒保持小火炒到你满意的程度就好了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000093",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5050-0000000093-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "白萝卜切大段。"
+            }
+        ]
+    },
+    {
+        "id": "0000000094",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5050-0000000094-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "然后横切片（不要切到底）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000095",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5050-0000000095-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "再反过来竖切片（也不要切到底）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000096",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5050-0000000096-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "撒上盐腌半小时。"
+            }
+        ]
+    },
+    {
+        "id": "0000000097",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5050-0000000097-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "甜面酱+酱油+糖调成酱汁。"
+            }
+        ]
+    },
+    {
+        "id": "0000000098",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5050-0000000098-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把腌好的白萝卜放入酱汁中。"
+            }
+        ]
+    },
+    {
+        "id": "0000000099",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5050-0000000099-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放入咸菜坛中腌一周，酱香浓郁，口感脆爽。"
+            }
+        ]
+    },
+    {
+        "id": "0000000100",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5050-0000000100-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "可以吃了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000101",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000101-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "材料：茄子、土豆、番茄、牛肉馅、意大利巴勿臣干酪、洋葱碎、橄榄油、盐、黑胡椒、瑞士美极鲜调味油。"
+            }
+        ]
+    },
+    {
+        "id": "0000000102",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000102-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "正在擦硬奶酪。"
+            }
+        ]
+    },
+    {
+        "id": "0000000103",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000103-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "牛肉馅儿里放了洋葱碎、盐、黑胡椒、橄榄油和美极调味汁。"
+            }
+        ]
+    },
+    {
+        "id": "0000000104",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000104-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "肉馅儿腌制后加入奶酪。"
+            }
+        ]
+    },
+    {
+        "id": "0000000105",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000105-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "正在搅拌。"
+            }
+        ]
+    },
+    {
+        "id": "0000000106",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000106-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "烤模里涂了一层薄薄的油。"
+            }
+        ]
+    },
+    {
+        "id": "0000000107",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000107-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "干酪铺底。"
+            }
+        ]
+    },
+    {
+        "id": "0000000108",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000108-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "碎奶酪上放了一层肉馅儿。"
+            }
+        ]
+    },
+    {
+        "id": "0000000109",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000109-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "平底锅上火烧热，放入橄榄油。"
+            }
+        ]
+    },
+    {
+        "id": "0000000110",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000110-what_is_step_img_doing-9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把油在锅中摊匀，下入茄子片儿、土豆片儿（薯片要煎透）、番茄片儿中火进行煎烤，材料煎至微黄便好（番茄煎时锁住水份便好，不要煎烂）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000111",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000111-what_is_step_img_doing-10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "*****"
+            }
+        ]
+    },
+    {
+        "id": "0000000112",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000112-what_is_step_img_doing-11.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将小烤模刷少许油，先撒一层干酪垫底，然后再放薄薄一层牛肉馅儿再放一片煎好的茄子。"
+            }
+        ]
+    },
+    {
+        "id": "0000000113",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000113-what_is_step_img_doing-12.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "茄片上面是土豆片。"
+            }
+        ]
+    },
+    {
+        "id": "0000000114",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000114-what_is_step_img_doing-13.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "再次是番茄片。"
+            }
+        ]
+    },
+    {
+        "id": "0000000115",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000115-what_is_step_img_doing-14.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "然后把另一片茄片盖好。"
+            }
+        ]
+    },
+    {
+        "id": "0000000116",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000116-what_is_step_img_doing-15.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "最后把牛肉馅铺在上面。"
+            }
+        ]
+    },
+    {
+        "id": "0000000117",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000117-what_is_step_img_doing-16.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "稍事压平，上面撒上干酪即可。"
+            }
+        ]
+    },
+    {
+        "id": "0000000118",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000118-what_is_step_img_doing-17.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放入烤盘置入烤箱。"
+            }
+        ]
+    },
+    {
+        "id": "0000000119",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000119-what_is_step_img_doing-18.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "炉温在200℃。"
+            }
+        ]
+    },
+    {
+        "id": "0000000120",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000120-what_is_step_img_doing-19.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "炉温200度预热5分钟，把烤模放入炉内中架上烤15分钟出炉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000121",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000121-what_is_step_img_doing-20.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "*****"
+            }
+        ]
+    },
+    {
+        "id": "0000000122",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000122-what_is_step_img_doing-21.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "您看，这是出炉的样子。"
+            }
+        ]
+    },
+    {
+        "id": "0000000123",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1778-0000000123-what_is_step_img_doing-22.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "稍事降温从模具中倒入餐盘内，点缀、装饰、上桌即可招待客人。"
+            }
+        ]
+    },
+    {
+        "id": "0000000124",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3927-0000000124-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备所有的材料。"
+            }
+        ]
+    },
+    {
+        "id": "0000000125",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3927-0000000125-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "鸡翅中洗净沥干水份。"
+            }
+        ]
+    },
+    {
+        "id": "0000000126",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3927-0000000126-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用刀背把鸡翅两面拍拍，并把鸡翅背面划2-3刀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000127",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3927-0000000127-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "每个翅上面均匀加入少量老抽和适量的生抽、朗姆酒，抹匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000128",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3927-0000000128-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "每个翅上面均匀撒上薄啊的盐和适量大蒜粉、小辣椒粉、黑胡椒粉、黑胡椒碎。（依据个人口味，爱吃辣可多放辣椒粉，爱吃黑胡椒味道可多放黑胡椒粉和碎。）"
+            }
+        ]
+    },
+    {
+        "id": "0000000129",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3927-0000000129-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "翻面步骤同上，把每个鸡翅都按摩均匀。盖保鲜膜，腌至少3小时以上。"
+            }
+        ]
+    },
+    {
+        "id": "0000000130",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3927-0000000130-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "烤盘垫锡纸，190度，中层25分钟左右，中途翻面。"
+            }
+        ]
+    },
+    {
+        "id": "0000000131",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3927-0000000131-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "烤好的鸡翅，吃之前撒适量黑胡椒碎，味道更佳。"
+            }
+        ]
+    },
+    {
+        "id": "0000000132",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000132-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "干辣椒洗净，擦干，我用的量是这些的一倍。"
+            }
+        ]
+    },
+    {
+        "id": "0000000133",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000133-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "剪成小段。"
+            }
+        ]
+    },
+    {
+        "id": "0000000134",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000134-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "加一些花椒，我用的比例是4:1，朋友可以根据自己的喜好调配比例的，自己做就是这点好哈！随心所欲。"
+            }
+        ]
+    },
+    {
+        "id": "0000000135",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000135-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用料理机的研磨刀片磨成末。"
+            }
+        ]
+    },
+    {
+        "id": "0000000136",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000136-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放一大勺麻辣鲜、一小勺五香粉，一大勺老抽，少许糖、醋和香油，拌匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000137",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000137-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "撒上芝麻，我大概撒了2大勺，我用的是熟芝麻。"
+            }
+        ]
+    },
+    {
+        "id": "0000000138",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000138-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把油烧热，浇在拌好的辣椒末上，油的量最好末过辣椒末3-4厘米；如果一次做的量不够，可以再熬一下再浇哈！浇的时候小心，不要一次性全部倒入，以防热油产生的泡沫溢出，也小心烫伤哦。"
+            }
+        ]
+    },
+    {
+        "id": "0000000139",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000139-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "油辣椒做好后，拌盘海带吧！这么一盘海带花了一元钱，拌好正好一盘，放入一大勺油辣椒，再加一大勺油辣椒面上的辣油，一小勺花椒粉，一小勺老抽，少许醋、香油，盐和鸡精，葱花，拌匀即可！还可以根据个人口味加香菜、花生碎什么的，随你怎么喜欢就怎么加吧。"
+            }
+        ]
+    },
+    {
+        "id": "0000000140",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4494-0000000140-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "拌好的海带可香呢。"
+            }
+        ]
+    },
+    {
+        "id": "0000000141",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1132-0000000141-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将肋排洗净，用40g酷克壹佰金牌BBQ烤翅料直接抹在排骨上。"
+            }
+        ]
+    },
+    {
+        "id": "0000000142",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1132-0000000142-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "拌匀放保鲜盒里面，放入冰箱冷藏5小时以上。"
+            }
+        ]
+    },
+    {
+        "id": "0000000143",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1132-0000000143-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将青椒，灯笼椒，洋葱洗净切块。"
+            }
+        ]
+    },
+    {
+        "id": "0000000144",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1132-0000000144-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "另取空碗，放入两勺老抽，一勺蜂蜜，一勺红糖，调成蜜汁。"
+            }
+        ]
+    },
+    {
+        "id": "0000000145",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1132-0000000145-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将腌制好的肋排拿出来放入烤盘，并刷上蜜汁入烤箱，220度40分钟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000146",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1132-0000000146-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将青椒，灯笼椒，洋葱倒入腌制肋排的保鲜盒，利用盒内剩余的BBQ烤翅料拌匀待用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000147",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-1132-0000000147-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "分钟后拿出烤盘，放入配菜，继续烤制20分钟即可。"
+            }
+        ]
+    },
+    {
+        "id": "0000000148",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000148-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "黄豆洗净泡发几个小时。"
+            }
+        ]
+    },
+    {
+        "id": "0000000149",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000149-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "泡成上图那样。"
+            }
+        ]
+    },
+    {
+        "id": "0000000150",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000150-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "泡好沥干水。"
+            }
+        ]
+    },
+    {
+        "id": "0000000151",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000151-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放锅里煮熟。我妈妈说:喜欢吃硬点的就不要煮的那么软。"
+            }
+        ]
+    },
+    {
+        "id": "0000000152",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000152-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "黄豆煮好后捞出沥干，放一容器里摊开等待发霉，摊豆的容器一定是要下面能透气的，不然会坏。"
+            }
+        ]
+    },
+    {
+        "id": "0000000153",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000153-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "一周后的样子<或者10天左右>看看这发霉的样，是不是不敢吃呢但这豆豉就得经过这过程呢想想那臭豆腐发酵更加恐怖呢，大家不也吃了吗？不是说眼不见为净吗可以用手把毛给拔掉一些。"
+            }
+        ]
+    },
+    {
+        "id": "0000000154",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000154-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "做豆豉的调味料:盐辣椒粉花椒<花椒粉>白酒<一定要高度酒>。"
+            }
+        ]
+    },
+    {
+        "id": "0000000155",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000155-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把发霉后的黄豆装一盆里,盆里千万不能有油哦!然后放盐。"
+            }
+        ]
+    },
+    {
+        "id": "0000000156",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000156-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放盐搅匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000157",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000157-what_is_step_img_doing-9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "花椒我妈说:放整颗花椒的装瓶后更加香。于是我听老妈的，那就放点整粒的花椒吧。"
+            }
+        ]
+    },
+    {
+        "id": "0000000158",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000158-what_is_step_img_doing-10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "我怕到时候整粒花椒太麻了,我叫妈少放点整粒花椒,改放点花椒粉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000159",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000159-what_is_step_img_doing-11.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放辣椒粉辣椒粉多少根据自己的口味。"
+            }
+        ]
+    },
+    {
+        "id": "0000000160",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000160-what_is_step_img_doing-12.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放高度白酒这一部很重要，不放酒豆豉容易坏。"
+            }
+        ]
+    },
+    {
+        "id": "0000000161",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2348-0000000161-what_is_step_img_doing-13.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "全部拌匀后装入食品袋,绑紧，放好。过两天打开尝尝味道够不够。根据自己的口味,差什么味就加什么味。过10多天后就可以改装在密封的瓶子里了！豆豉是越存越香的。"
+            }
+        ]
+    },
+    {
+        "id": "0000000162",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3513-0000000162-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "大胖萝卜一个，洗净，不用去皮的据说不去皮的吃起来更脆的。"
+            }
+        ]
+    },
+    {
+        "id": "0000000163",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3513-0000000163-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "切薄片，加盐腌30分钟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000164",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3513-0000000164-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "倒入腌出的水分，再用手挤一下萝卜片。"
+            }
+        ]
+    },
+    {
+        "id": "0000000165",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3513-0000000165-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "加白糖再腌30分钟，再倒出水分再加白糖腌30分钟（也就是说用盐腌一次，用糖腌两次），不用担心会太甜。"
+            }
+        ]
+    },
+    {
+        "id": "0000000166",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3513-0000000166-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "加海天味极鲜酱油，白醋，矿泉水，糖量你可以随意，加好后，你可以尝下这个汁，再做调整，呆冰箱两天。"
+            }
+        ]
+    },
+    {
+        "id": "0000000167",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-3513-0000000167-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "开吃，味道真是不错哩。"
+            }
+        ]
+    },
+    {
+        "id": "0000000168",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000168-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备材料。"
+            }
+        ]
+    },
+    {
+        "id": "0000000169",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000169-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "鳕鱼用干布吸干水分。"
+            }
+        ]
+    },
+    {
+        "id": "0000000170",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000170-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "切成条状。"
+            }
+        ]
+    },
+    {
+        "id": "0000000171",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000171-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用腌料腌制20分钟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000172",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000172-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "均匀的裹上面粉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000173",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000173-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "裹上鸡蛋液。"
+            }
+        ]
+    },
+    {
+        "id": "0000000174",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000174-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "裹上面包糠。"
+            }
+        ]
+    },
+    {
+        "id": "0000000175",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000175-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放入烤盘上。"
+            }
+        ]
+    },
+    {
+        "id": "0000000176",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-5054-0000000176-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放入预热好的烤箱中200度15分钟左右。"
+            }
+        ]
+    },
+    {
+        "id": "0000000177",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4417-0000000177-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "cook100的调料是这个样子的。"
+            }
+        ]
+    },
+    {
+        "id": "0000000178",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4417-0000000178-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "鸡翅，加上半包调料再加点水。"
+            }
+        ]
+    },
+    {
+        "id": "0000000179",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4417-0000000179-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "搅合匀了。装保鲜袋里，然后放冰箱里冷藏3、5个小时也行，但是时间长点肯定会更入味的。"
+            }
+        ]
+    },
+    {
+        "id": "0000000180",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4417-0000000180-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把腌制鸡翅剩下的调料加上一勺蜂蜜搅匀备用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000181",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4417-0000000181-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "入烤箱，250°10分钟，180°10分钟，最后刷上蜂蜜调料，250°再烤5分钟；这个时候鸡翅基本是滋滋滋的冒油了，关掉烤箱。"
+            }
+        ]
+    },
+    {
+        "id": "0000000182",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4417-0000000182-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备开吃吧。"
+            }
+        ]
+    },
+    {
+        "id": "0000000183",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4596-0000000183-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "牛肉，选用筋少，没有肥油的牛肉，洗干净，切大块。"
+            }
+        ]
+    },
+    {
+        "id": "0000000184",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4596-0000000184-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "牛肉用热水焯一边，去掉浮沫，用热水冲洗干净。"
+            }
+        ]
+    },
+    {
+        "id": "0000000185",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4596-0000000185-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把牛肉放电压力锅内，加一碗水，适量的盐、生抽，焖半个小时。"
+            }
+        ]
+    },
+    {
+        "id": "0000000186",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4596-0000000186-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "焖好的牛肉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000187",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4596-0000000187-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "捞出晾凉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000188",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4596-0000000188-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "尽量的撕碎，纯手工，顺便把残留的筋、膜之类的去掉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000189",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4596-0000000189-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "剁碎，剁成绒。"
+            }
+        ]
+    },
+    {
+        "id": "0000000190",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-4596-0000000190-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "锅内加少许的油，比炒菜还要少点的油，小火，倒入剁好的牛肉，开始小火慢慢的炒，把水分都炒干，中间可以稍微加点糖、盐、生抽啥的，炒出牛肉的香味，感觉牛肉碎越来干，炒的感觉有点像沙子似的加入熟芝麻、以及揉碎的海苔、辣椒面，炒匀，就可以了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000191",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000191-what_is_step_img_doing-0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备葱姜丝，辣椒面100g，花椒、香叶、草果（一定要拍开）、大料、桂皮，还有其它的类似的香料都来点吧(其实超市卖的那种专门用来炖肉的调料包就不错哦，都放进去好了)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000192",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000192-what_is_step_img_doing-1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "大约500g的油烧热后放入葱姜丝。"
+            }
+        ]
+    },
+    {
+        "id": "0000000193",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000193-what_is_step_img_doing-2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "改小火，将葱姜丝炸干后捞出扔掉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000194",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000194-what_is_step_img_doing-3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将香叶，草果、大料、桂皮、花椒扔油里，继续小火慢慢的将这些东东炸出香味，感觉差不多都捞出扔掉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000195",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000195-what_is_step_img_doing-4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "锅里的油烧热至微微冒烟后关火。"
+            }
+        ]
+    },
+    {
+        "id": "0000000196",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000196-what_is_step_img_doing-5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "辣椒面放入一个大容器里。"
+            }
+        ]
+    },
+    {
+        "id": "0000000197",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000197-what_is_step_img_doing-6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将烧热的油的四分之一的量浇在辣椒面上，搅拌一下，随后再倒入一半，搅拌，最后倒入剩下的油搅匀就ok了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000198",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000198-what_is_step_img_doing-7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "等红油放凉后，辣椒面基本上也都沉淀下去了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000199",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs/meishichina-2087-0000000199-what_is_step_img_doing-8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "最后要做的就是将油和被榨干有的辣椒面分装入2个瓶子里就OK了。红油和炸过红油剩下的辣椒面都是拌凉菜的好东东，慢慢吃吧。"
+            }
+        ]
+    }
+]
