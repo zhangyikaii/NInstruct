@@ -19,11 +19,11 @@ class GenerateInstances():
         assert inferencer_class is not None, 'Inferencer class import failed.'
         self.inferencer = inferencer_class(types=infer_strs)
 
-    def run(self, **kwargs) -> None:
+    def run(self, **fit_kwargs) -> None:
         results, results_data_id2file_name = [], {}
         for pkl_file in glob.glob(os.path.join(DATA_PATHS[self.exp_str], "*.pkl")):
-            cur = self.inferencer.load(pkl_file, **kwargs)
-            cur = self.inferencer.fit(cur, **kwargs)
+            cur = self.inferencer.load(pkl_file)
+            cur = self.inferencer.fit(cur, **fit_kwargs)
 
             results_data_id2file_name.update({i['id']: pkl_file for i in cur})
             results.extend(cur)
@@ -37,7 +37,7 @@ def main():
         exp_str=args.exp,
         infer_strs=args.infer
         )
-    generator.run()
+    generator.run(**args.fit_kwargs)
 
 if __name__ == '__main__':
     main()

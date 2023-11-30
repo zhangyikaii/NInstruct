@@ -1,10 +1,10 @@
 import os
-from typing import List, Any
+from typing import List, Any, Dict
 
 from utils import download_img, make_data_dict, ID_COUNTER, LOGGER
 from configs import IMG_SAVE_PATH
 
-def what_is_step_img_doing(data) -> List[Any]:
+def what_is_step_img_doing(data: Dict[str, Any], **kwargs) -> List[Any]:
     results = []
     for idx, cur_step in enumerate(data['steps']):
         img_file = os.path.join(IMG_SAVE_PATH, f"{data['id']}_{str(ID_COUNTER)}_{what_is_step_img_doing.__name__}_{idx}.jpg")

@@ -3,7 +3,7 @@ import re
 import pickle
 import json
 import importlib
-
+import ast
 from configs import JSON_SAVE_PATH
 
 import argparse
@@ -92,10 +92,22 @@ def save_results(data, data_id2file_name) -> None:
         for key, value in data_id2file_name.items():
             csv_file.write(f"{key},{value}\n")
 
+
+
+def parse_dict_arg(arg_str):
+    try:
+        parsed_dict = ast.literal_eval(arg_str)
+        if not isinstance(parsed_dict, dict):
+            raise ValueError("Input is not in a valid dictionary format.")
+        return parsed_dict
+    except (SyntaxError, ValueError):
+        raise argparse.ArgumentTypeError("Unable to parse the input as a valid dictionary.")
+
 def get_command_line_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument('--exp', type=str, default='meishichina')
     parser.add_argument('--infer', nargs='*', default=None, required=True)
+    parser.add_argument("--fit-kwargs", type=parse_dict_arg, default={}, help="Provide a dictionary-like argument")
 
     args, _ = parser.parse_known_args()
     parser = ArgumentParser(parents=[parser], add_help=False)

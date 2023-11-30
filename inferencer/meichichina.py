@@ -21,7 +21,7 @@ class MeishiChinaInferencer(BaseInferencer):
             'type': cur_data['title_img_type'],
             'description': cur_data['description'],
             'components_nested': {k: {list(i.keys())[0]: list(i.values())[0]} for k in cur_data['components'].keys() for i in cur_data['components'][k]},
-            'components_flat': {list(i.keys())[0]: list(i.values())[0] for i in cur_data['components']['方法']},
+            'components_flat': {list(i.values())[0]: list(i.keys())[0] for i in cur_data['components']['方法']},
             'steps': cur_data['steps'],
         }
 
