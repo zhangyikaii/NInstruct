@@ -42,7 +42,7 @@ def save_pickle(file_name, data):
 
 def preprocess_text(text: str = ''):
     assert isinstance(text, str)
-    text = re.sub(r'^\d+\s*', '', text) # 去除开头的数字
+    # text = re.sub(r'^\d+\s*', '', text) # 去除开头的数字
     text = text.strip()
     text = re.sub(r'^[.,;?”’:。，]+', '', text)  # 去除开头的标点符号
     text = re.sub(r'\[(\w+)R\]', r'[\1]', text) # [赞R] 替换为 [赞]

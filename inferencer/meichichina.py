@@ -31,7 +31,7 @@ class MeishiChinaInferencer(BaseInferencer):
             assert isinstance(text, str) \
                 or isinstance(text, list) and all(isinstance(i, str) for i in text)
         assert_str_or_list_of_str(cur_data['img'])
-        assert isinstance(cur_data['type'], str)
+        assert_str_or_list_of_str(cur_data['type'])
         assert isinstance(cur_data['description'], str)
         assert isinstance(cur_data['components_nested'], dict) \
             or all(isinstance(value, dict) for value in cur_data['components_nested'].values())
@@ -47,6 +47,6 @@ class MeishiChinaInferencer(BaseInferencer):
             cur_data['components_flat'][key] = preprocess_text(cur_data['components_flat'][key])
         for i in range(len(cur_data['steps'])):
             cur_data['steps'][i]['description'] = preprocess_text(cur_data['steps'][i]['description'])
-
+        
         return cur_data
 
