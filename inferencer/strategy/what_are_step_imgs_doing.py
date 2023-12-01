@@ -12,7 +12,10 @@ def what_are_step_imgs_doing(
     **kwargs) -> List[Any]:
     results = []
     for _ in range(what_are_step_num_iters):
-        cur_sampled = random.sample(range(len(data['steps'])), what_are_step_num_imgs)
+        if len(data['steps']) < what_are_step_num_imgs:
+            cur_sampled = random.sample(range(len(data['steps'])), len(data['steps']))
+        else:
+            cur_sampled = random.sample(range(len(data['steps'])), what_are_step_num_imgs)
         img_file_list = []
         for img_idx in cur_sampled:
             cur_step = data['steps'][img_idx]
