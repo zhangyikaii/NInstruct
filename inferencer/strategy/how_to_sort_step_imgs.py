@@ -12,7 +12,14 @@ def how_to_sort_step_imgs(
     **kwargs) -> List[Any]:
     results = []
     for _ in range(how_to_sort_num_iters):
-        cur_sampled = random.sample(range(len(data['steps'])), how_to_sort_num_sorted_imgs)
+        if len(data['steps']) < how_to_sort_num_sorted_imgs:
+            cur_sampled = random.sample(range(len(data['steps'])), len(data['steps']))
+        else:
+            cur_sampled = random.sample(range(len(data['steps'])), how_to_sort_num_sorted_imgs)
+        # try:
+        #     cur_sampled = random.sample(range(len(data['steps'])), how_to_sort_num_sorted_imgs)
+        # except:
+        #     cur_sampled = random.sample(range(len(data['steps'])), len(data['steps']))
         img_file_list = []
         for img_idx in cur_sampled:
             cur_step = data['steps'][img_idx]
