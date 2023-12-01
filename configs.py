@@ -2,7 +2,8 @@ from pathlib import Path
 
 DATA_PATHS = {
     'meishichina': f'data',
-    'douguo':f'douguo_data'
+    'daydaycook' : f'data/daydaycook',
+    'douguo': f'douguo_data'
 }
 
 IMG_SAVE_PATH = 'results/imgs'
