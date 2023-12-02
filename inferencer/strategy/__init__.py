@@ -1,3 +1,4 @@
+from .what_is_next import what_is_next
 from .what_is_dish import what_is_dish
 from .what_is_step_img_doing import what_is_step_img_doing
 from .what_are_step_imgs_doing import what_are_step_imgs_doing
@@ -12,4 +13,5 @@ STRATEGIES = {
     'what_are_components_nested': what_are_components_nested,
     'what_are_components_flat': what_are_components_flat,
     'how_to_sort_step_imgs': how_to_sort_step_imgs,
+    'what_is_next': what_is_next,
 }
