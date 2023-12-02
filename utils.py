@@ -110,7 +110,7 @@ def parse_dict_arg(arg_str):
 
 def get_command_line_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--exp', type=str, default='meishichina')
+    parser.add_argument('--exp', type=str, default='xinshipu')
     parser.add_argument('--infer', nargs='*', default=None, required=True)
     parser.add_argument("--fit-kwargs", type=parse_dict_arg, default={}, help="Provide a dictionary-like argument")
 

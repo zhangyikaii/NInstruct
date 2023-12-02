@@ -1,0 +1,4 @@
+2023-12-02 11:42:00 [DEBUG]: Building prefix dict from the default dictionary ...
+2023-12-02 11:42:00 [DEBUG]: Loading model from cache C:\Users\lenovo\AppData\Local\Temp\jieba.cache
+2023-12-02 11:42:00 [DEBUG]: Loading model cost 0.532 seconds.
+2023-12-02 11:42:00 [DEBUG]: Prefix dict has been built successfully.
