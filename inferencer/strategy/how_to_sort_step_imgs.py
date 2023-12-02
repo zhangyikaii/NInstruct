@@ -11,15 +11,10 @@ def how_to_sort_step_imgs(
     how_to_sort_num_iters: int = 1,
     **kwargs) -> List[Any]:
     results = []
+    if len(data['steps']) == 0:
+        return results
     for _ in range(how_to_sort_num_iters):
-        if len(data['steps']) < how_to_sort_num_sorted_imgs:
-            cur_sampled = random.sample(range(len(data['steps'])), len(data['steps']))
-        else:
-            cur_sampled = random.sample(range(len(data['steps'])), how_to_sort_num_sorted_imgs)
-        # try:
-        #     cur_sampled = random.sample(range(len(data['steps'])), how_to_sort_num_sorted_imgs)
-        # except:
-        #     cur_sampled = random.sample(range(len(data['steps'])), len(data['steps']))
+        cur_sampled = random.sample(range(len(data['steps'])), how_to_sort_num_sorted_imgs)
         img_file_list = []
         for img_idx in cur_sampled:
             cur_step = data['steps'][img_idx]
