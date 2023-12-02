@@ -4,10 +4,11 @@ import pickle
 import json
 import importlib
 import ast
-from configs import JSON_SAVE_PATH
+from configs import JSON_SAVE_PATH, OPEN_AI_KEY
 
 import argparse
 from argparse import ArgumentParser
+import openai
 
 
 class Counter:
@@ -19,6 +20,16 @@ class Counter:
 
     def __str__(self):
         return f'{self.count:010d}'
+
+class GPT:
+    def __init__(self):
+        self.client = openai.OpenAI(api_key=OPEN_AI_KEY)
+
+    def answer(self, question):
+        completion = self.client.chat.completions.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": question}])
+
+        return completion.choices[0].message.content
+
 
 ID_COUNTER = Counter()
 
@@ -49,6 +60,11 @@ def preprocess_text(text: str = ''):
     text = re.sub(r'@\S+\s*', '', text) # 删除 @ 之后的信息
     text = text.strip()
     return text
+
+def remove_non_chinese_digits(text):
+    # 使用正则表达式匹配非数字和非中文字符并替换为空格
+    cleaned_text = re.sub(r'[^\u4e00-\u9fff0-9]', '', text)
+    return cleaned_text
 
 def download_img(url: str, dest_file: str):
     return True
@@ -110,7 +126,7 @@ def parse_dict_arg(arg_str):
 
 def get_command_line_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--exp', type=str, default='xinshipu')
+    parser.add_argument('--exp', type=str, default='meishichina')
     parser.add_argument('--infer', nargs='*', default=None, required=True)
     parser.add_argument("--fit-kwargs", type=parse_dict_arg, default={}, help="Provide a dictionary-like argument")
 

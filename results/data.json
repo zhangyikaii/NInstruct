@@ -4,11 +4,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000000_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+                "value": "图：<img>results/imgs\\103028097_0000000000_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "牛肉，金针菇，：姜末，酱油，料酒，黑胡椒粉，盐"
+                "value": "土豆豆角切好，锅里先少放点油，先放土豆再放豆角火力不要太大，翻炒至土豆边发黄，豆角表面发皱即可盛出来"
             }
         ]
     },
@@ -17,11 +17,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000000_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：牛肉有多少？"
+                "value": "图：<img>results/imgs\\103028097_0000000001_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "100克。"
+                "value": "切好五花肉和葱姜蒜，先把葱姜蒜爆香，然后放入肉翻炒至变色"
             }
         ]
     },
@@ -30,11 +30,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000000_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：金针菇有多少？"
+                "value": "图：<img>results/imgs\\103028097_0000000002_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "50克。"
+                "value": "放入煸好的土豆豆角，然后放入热水将要没过食材放入生抽，五香粉拌匀大火烧开乀(ˉεˉ乀)滚一会。。然后调成小火，盖上锅盖闷差不多20分钟"
             }
         ]
     },
@@ -43,11 +43,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000000_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：：姜末有多少？"
+                "value": "图：<img>results/imgs\\103028097_0000000003_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "2克。"
+                "value": "放入盐，大火收汁，就可以出锅了"
             }
         ]
     },
@@ -56,11 +56,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000000_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：酱油有多少？"
+                "value": "(1) <img>results/imgs\\103028097_0000000004_how_to_sort_step_imgs_3.jpg</img>，(2) <img>results/imgs\\103028097_0000000004_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103028097_0000000004_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
             },
             {
                 "from": "assistant",
-                "value": "5ML。"
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
             }
         ]
     },
@@ -69,11 +69,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000000_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：料酒有多少？"
+                "value": "(1) <img>results/imgs\\103028097_0000000005_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103028097_0000000005_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103028097_0000000005_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
             },
             {
                 "from": "assistant",
-                "value": "5ML。"
+                "value": "按照步骤排序如下：(1)，(2)，(3)。"
             }
         ]
     },
@@ -82,11 +82,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000000_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：黑胡椒粉有多少？"
+                "value": "(1) <img>results/imgs\\103028097_0000000006_how_to_sort_step_imgs_3.jpg</img>，(2) <img>results/imgs\\103028097_0000000006_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103028097_0000000006_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
             },
             {
                 "from": "assistant",
-                "value": "2克。"
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
             }
         ]
     },
@@ -95,11 +95,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000000_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
+                "value": "(1) <img>results/imgs\\103028097_0000000007_how_to_sort_step_imgs_3.jpg</img>，(2) <img>results/imgs\\103028097_0000000007_how_to_sort_step_imgs_0.jpg</img>，(3) <img>results/imgs\\103028097_0000000007_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
             },
             {
                 "from": "assistant",
-                "value": "1克。"
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
             }
         ]
     },
@@ -108,11 +108,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1167_0000000008_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+                "value": "(1) <img>results/imgs\\103028097_0000000008_how_to_sort_step_imgs_3.jpg</img>，(2) <img>results/imgs\\103028097_0000000008_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103028097_0000000008_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
             },
             {
                 "from": "assistant",
-                "value": "金针牛肉卷"
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
             }
         ]
     },
@@ -121,11 +121,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1415_0000000009_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+                "value": "(1) <img>results/imgs\\103028097_0000000009_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103028097_0000000009_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103028097_0000000009_what_are_step_imgs_doing_2.jpg</img>，这些图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "咖喱，牛肉，土豆，葱，姜，蒜"
+                "value": "图 (1)：土豆豆角切好，锅里先少放点油，先放土豆再放豆角火力不要太大，翻炒至土豆边发黄，豆角表面发皱即可盛出来图 (2)：切好五花肉和葱姜蒜，先把葱姜蒜爆香，然后放入肉翻炒至变色图 (3)：放入煸好的土豆豆角，然后放入热水将要没过食材放入生抽，五香粉拌匀大火烧开乀(ˉεˉ乀)滚一会。。然后调成小火，盖上锅盖闷差不多20分钟。"
             }
         ]
     },
@@ -134,11 +134,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1415_0000000009_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：咖喱有多少？"
+                "value": "(1) <img>results/imgs\\103028097_0000000010_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103028097_0000000010_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103028097_0000000010_what_are_step_imgs_doing_3.jpg</img>，这些图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "100克。"
+                "value": "图 (1)：土豆豆角切好，锅里先少放点油，先放土豆再放豆角火力不要太大，翻炒至土豆边发黄，豆角表面发皱即可盛出来图 (2)：切好五花肉和葱姜蒜，先把葱姜蒜爆香，然后放入肉翻炒至变色图 (3)：放入盐，大火收汁，就可以出锅了。"
             }
         ]
     },
@@ -147,11 +147,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1415_0000000009_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：牛肉有多少？"
+                "value": "(1) <img>results/imgs\\103028097_0000000011_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103028097_0000000011_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103028097_0000000011_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "300克。"
+                "value": "图 (1)：放入煸好的土豆豆角，然后放入热水将要没过食材放入生抽，五香粉拌匀大火烧开乀(ˉεˉ乀)滚一会。。然后调成小火，盖上锅盖闷差不多20分钟图 (2)：切好五花肉和葱姜蒜，先把葱姜蒜爆香，然后放入肉翻炒至变色图 (3)：土豆豆角切好，锅里先少放点油，先放土豆再放豆角火力不要太大，翻炒至土豆边发黄，豆角表面发皱即可盛出来。"
             }
         ]
     },
@@ -160,11 +160,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1415_0000000009_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：土豆有多少？"
+                "value": "(1) <img>results/imgs\\103028097_0000000012_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103028097_0000000012_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103028097_0000000012_what_are_step_imgs_doing_3.jpg</img>，这些图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "400克。"
+                "value": "图 (1)：放入煸好的土豆豆角，然后放入热水将要没过食材放入生抽，五香粉拌匀大火烧开乀(ˉεˉ乀)滚一会。。然后调成小火，盖上锅盖闷差不多20分钟图 (2)：切好五花肉和葱姜蒜，先把葱姜蒜爆香，然后放入肉翻炒至变色图 (3)：放入盐，大火收汁，就可以出锅了。"
             }
         ]
     },
@@ -173,11 +173,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1415_0000000009_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱有多少？"
+                "value": "(1) <img>results/imgs\\103028097_0000000013_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103028097_0000000013_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103028097_0000000013_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "20克。"
+                "value": "图 (1)：放入盐，大火收汁，就可以出锅了图 (2)：切好五花肉和葱姜蒜，先把葱姜蒜爆香，然后放入肉翻炒至变色图 (3)：土豆豆角切好，锅里先少放点油，先放土豆再放豆角火力不要太大，翻炒至土豆边发黄，豆角表面发皱即可盛出来。"
             }
         ]
     },
@@ -186,11 +186,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1415_0000000009_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜有多少？"
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
             },
             {
                 "from": "assistant",
-                "value": "20克。"
+                "value": "土豆，豆角，五花肉，生抽，盐，五香粉或十三香，葱姜蒜，热水"
             }
         ]
     },
@@ -199,11 +199,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1415_0000000009_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蒜有多少？"
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：土豆有多少？"
             },
             {
                 "from": "assistant",
-                "value": "20克。"
+                "value": "2个(以下都是按一个人的饭量)。"
             }
         ]
     },
@@ -212,11 +212,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1415_0000000016_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：豆角有多少？"
             },
             {
                 "from": "assistant",
-                "value": "咖喱土豆牛肉"
+                "value": "100克。"
             }
         ]
     },
@@ -225,11 +225,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1436_0000000017_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：五花肉有多少？"
             },
             {
                 "from": "assistant",
-                "value": "牛肉，菜心，大葱，姜，淀粉，耗油"
+                "value": "150克。"
             }
         ]
     },
@@ -238,11 +238,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1436_0000000017_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：牛肉有多少？"
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：生抽有多少？"
             },
             {
                 "from": "assistant",
-                "value": "300克。"
+                "value": "1勺。"
             }
         ]
     },
@@ -251,969 +251,7 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\1436_0000000017_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：菜心有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "200克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000020",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1436_0000000017_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：大葱有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "20克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000021",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1436_0000000017_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "20克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000022",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1436_0000000017_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：淀粉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "15克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000023",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1436_0000000017_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：耗油有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "15克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000024",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1436_0000000024_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "蚝油牛肉"
-            }
-        ]
-    },
-    {
-        "id": "0000000025",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1482_0000000025_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "清真扒牛肉"
-            }
-        ]
-    },
-    {
-        "id": "0000000026",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1498_0000000026_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
-            },
-            {
-                "from": "assistant",
-                "value": "牛肉，青红椒，蒜，淀粉，生抽"
-            }
-        ]
-    },
-    {
-        "id": "0000000027",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1498_0000000026_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：牛肉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "300克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000028",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1498_0000000026_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：青红椒有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "5只。"
-            }
-        ]
-    },
-    {
-        "id": "0000000029",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1498_0000000026_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蒜有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "2瓣。"
-            }
-        ]
-    },
-    {
-        "id": "0000000030",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1498_0000000026_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：淀粉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "5克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000031",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1498_0000000026_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：生抽有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "10毫升。"
-            }
-        ]
-    },
-    {
-        "id": "0000000032",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1498_0000000032_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "双椒牛肉小炒"
-            }
-        ]
-    },
-    {
-        "id": "0000000033",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1624_0000000033_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "香菇牛肉饼"
-            }
-        ]
-    },
-    {
-        "id": "0000000034",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1684_0000000034_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "咖喱番茄牛肉面"
-            }
-        ]
-    },
-    {
-        "id": "0000000035",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\1827_0000000035_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "铁板牛肉"
-            }
-        ]
-    },
-    {
-        "id": "0000000036",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\440_0000000036_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "牛肉西瓜皮蒸饺"
-            }
-        ]
-    },
-    {
-        "id": "0000000037",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\446_0000000037_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "红烧牛肉"
-            }
-        ]
-    },
-    {
-        "id": "0000000038",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\602_0000000038_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
-            },
-            {
-                "from": "assistant",
-                "value": "牛肉，番茄黄豆，西红柿，洋葱，番茄酱，盐"
-            }
-        ]
-    },
-    {
-        "id": "0000000039",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\602_0000000038_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：牛肉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1000g。"
-            }
-        ]
-    },
-    {
-        "id": "0000000040",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\602_0000000038_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：番茄黄豆有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "425g1罐。"
-            }
-        ]
-    },
-    {
-        "id": "0000000041",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\602_0000000038_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：西红柿有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "4个。"
-            }
-        ]
-    },
-    {
-        "id": "0000000042",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\602_0000000038_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：洋葱有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1个。"
-            }
-        ]
-    },
-    {
-        "id": "0000000043",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\602_0000000038_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：番茄酱有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "300g。"
-            }
-        ]
-    },
-    {
-        "id": "0000000044",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\602_0000000038_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "10g。"
-            }
-        ]
-    },
-    {
-        "id": "0000000045",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\602_0000000045_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "西红柿牛肉汤"
-            }
-        ]
-    },
-    {
-        "id": "0000000046",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\668_0000000046_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "牙签牛肉"
-            }
-        ]
-    },
-    {
-        "id": "0000000047",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\683_0000000047_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "蚝油青椒牛肉丁"
-            }
-        ]
-    },
-    {
-        "id": "0000000048",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
-            },
-            {
-                "from": "assistant",
-                "value": "新鲜牛肉腿肉，八角，桂皮，小茴香，姜片，生抽，老抽，细盐，特细辣椒粉，花椒粉，五香粉，细砂糖，鸡精"
-            }
-        ]
-    },
-    {
-        "id": "0000000049",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：新鲜牛肉腿肉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "500克 卤水香叶5片。"
-            }
-        ]
-    },
-    {
-        "id": "0000000050",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：八角有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "4颗。"
-            }
-        ]
-    },
-    {
-        "id": "0000000051",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：桂皮有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "10克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000052",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：小茴香有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "5克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000053",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜片有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "4片。"
-            }
-        ]
-    },
-    {
-        "id": "0000000054",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：生抽有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1大匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000055",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：老抽有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000056",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：细盐有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1小匙 炒香白芝麻2大匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000057",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：特细辣椒粉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1又1/2大匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000058",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：花椒粉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1/4小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000059",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：五香粉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1/4小匙 酱料：生抽2大匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000060",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：细砂糖有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1又1/2小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000061",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000048_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：鸡精有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000062",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\704_0000000062_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "自制麻辣牛肉干"
-            }
-        ]
-    },
-    {
-        "id": "0000000063",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
-            },
-            {
-                "from": "assistant",
-                "value": "新鲜牛肉，草菇，蒜蓉，姜蓉，香葱碎，腌肉料：嫩肉粉，蚝油，生抽，砂糖，鸡精，料酒，水淀粉，沙拉油，炒草菇：蚝油，盐"
-            }
-        ]
-    },
-    {
-        "id": "0000000064",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：新鲜牛肉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "150克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000065",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：草菇有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "150克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000066",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蒜蓉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "10克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000067",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜蓉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "10克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000068",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：香葱碎有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "10克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000069",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：腌肉料：嫩肉粉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1/8小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000070",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蚝油有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1大匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000071",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：生抽有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1大匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000072",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：砂糖有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1/4小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000073",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：鸡精有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1/2小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000074",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：料酒有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000075",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：水淀粉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1大匙(玉米淀粉1茶匙+清水1大匙)。"
-            }
-        ]
-    },
-    {
-        "id": "0000000076",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：沙拉油有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1大匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000077",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：炒草菇：蚝油有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1大匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000078",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000063_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "1/8小匙。"
-            }
-        ]
-    },
-    {
-        "id": "0000000079",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\721_0000000079_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
-            },
-            {
-                "from": "assistant",
-                "value": "蚝油鲜菇滑牛肉"
-            }
-        ]
-    },
-    {
-        "id": "0000000080",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
-            },
-            {
-                "from": "assistant",
-                "value": "牛肉，生菜，：葱和蒜，干辣椒，花椒，盐，水淀粉，豆瓣酱，酱油，油，姜，料酒，高汤，花椒面，辣椒面，小米椒"
-            }
-        ]
-    },
-    {
-        "id": "0000000081",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：牛肉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "200克（和尚头）。"
-            }
-        ]
-    },
-    {
-        "id": "0000000082",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：生菜有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "80克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000083",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：：葱和蒜有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "50克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000084",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：干辣椒有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "6克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000085",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：花椒有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "2克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000086",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "2克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000087",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：水淀粉有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "20克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000088",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：豆瓣酱有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "20克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000089",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：酱油有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "15克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000090",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：油有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "30克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000091",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "5克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000092",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：料酒有多少？"
-            },
-            {
-                "from": "assistant",
-                "value": "20克。"
-            }
-        ]
-    },
-    {
-        "id": "0000000093",
-        "conversations": [
-            {
-                "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：高汤有多少？"
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
             },
             {
                 "from": "assistant",
@@ -1222,15 +260,977 @@
         ]
     },
     {
+        "id": "0000000020",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：五香粉或十三香有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000021",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱姜蒜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000022",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103028097_0000000014_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：热水有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "做菜之前最好烧一壶。"
+            }
+        ]
+    },
+    {
+        "id": "0000000023",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103028097_0000000023_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "东北菜，土豆豆角炖肉的做法步骤图"
+            }
+        ]
+    },
+    {
+        "id": "0000000024",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000024_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备好食材"
+            }
+        ]
+    },
+    {
+        "id": "0000000025",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000025_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备好食材 五花肉用料酒腌制一下。这道菜里的五花肉会很好吃，可以酌情多放，也可以用牛肉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000026",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000026_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "小土豆洗净控干水份，锅中放多一点油（首选花生油、玉米油 稳定性好耐高温）放入小土豆煎炸，少翻动，以免破皮。煎到表面微皱捞出备用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000027",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000027_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "类似这样(｡ì _ í｡)"
+            }
+        ]
+    },
+    {
+        "id": "0000000028",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000028_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "锅中留部分油开始煎肉，（也可以先爆香香料碟中材料）本次是为了逼出更多油脂考虑先减肉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000029",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000029_what_is_step_img_doing_5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "焦黄煎出部分油脂后放入所有香料炒，炒香后烹入生抽、老抽，加糖炒匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000030",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000030_what_is_step_img_doing_6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "然后放入之前炸好的小土豆烧味炒色。再加入豇豆断 尽量翻炒几下…加水炖.（水不要太多，多加酱油，也可放入豆瓣酱炒香，怕糊可以加水后在汤汁中加酱）"
+            }
+        ]
+    },
+    {
+        "id": "0000000031",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000031_what_is_step_img_doing_7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "豇豆炖软稍入味后，放入芹菜，再稍炖炖放入尖椒。"
+            }
+        ]
+    },
+    {
+        "id": "0000000032",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000032_what_is_step_img_doing_8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "食材都炖熟，炖软后放入香菜，继续盖盖炖一会儿。"
+            }
+        ]
+    },
+    {
+        "id": "0000000033",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000033_what_is_step_img_doing_9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "大火收汁啦！！！！剩余少部分汤汁的时候放少许鸡精、蚝油提鲜。（考虑可选加味精，最后也可以拌入少许香油）"
+            }
+        ]
+    },
+    {
+        "id": "0000000034",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000034_what_is_step_img_doing_10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "我的老抽看来放的不够多，颜色不深，不过自己家吃少吃一点酱油也是可以的，下次可以考虑多加一丢丢～"
+            }
+        ]
+    },
+    {
+        "id": "0000000035",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000035_how_to_sort_step_imgs_5.jpg</img>，(2) <img>results/imgs\\103371884_0000000035_how_to_sort_step_imgs_6.jpg</img>，(3) <img>results/imgs\\103371884_0000000035_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000036",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000036_how_to_sort_step_imgs_3.jpg</img>，(2) <img>results/imgs\\103371884_0000000036_how_to_sort_step_imgs_5.jpg</img>，(3) <img>results/imgs\\103371884_0000000036_how_to_sort_step_imgs_9.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(2)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000037",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000037_how_to_sort_step_imgs_10.jpg</img>，(2) <img>results/imgs\\103371884_0000000037_how_to_sort_step_imgs_9.jpg</img>，(3) <img>results/imgs\\103371884_0000000037_how_to_sort_step_imgs_7.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000038",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000038_how_to_sort_step_imgs_8.jpg</img>，(2) <img>results/imgs\\103371884_0000000038_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103371884_0000000038_how_to_sort_step_imgs_4.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000039",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000039_how_to_sort_step_imgs_5.jpg</img>，(2) <img>results/imgs\\103371884_0000000039_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103371884_0000000039_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000040",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000040_what_are_step_imgs_doing_4.jpg</img>，(2) <img>results/imgs\\103371884_0000000040_what_are_step_imgs_doing_3.jpg</img>，(3) <img>results/imgs\\103371884_0000000040_what_are_step_imgs_doing_5.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：锅中留部分油开始煎肉，（也可以先爆香香料碟中材料）本次是为了逼出更多油脂考虑先减肉。图 (2)：类似这样(｡ì _ í｡)图 (3)：焦黄煎出部分油脂后放入所有香料炒，炒香后烹入生抽、老抽，加糖炒匀。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000041",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000041_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103371884_0000000041_what_are_step_imgs_doing_4.jpg</img>，(3) <img>results/imgs\\103371884_0000000041_what_are_step_imgs_doing_9.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：类似这样(｡ì _ í｡)图 (2)：锅中留部分油开始煎肉，（也可以先爆香香料碟中材料）本次是为了逼出更多油脂考虑先减肉。图 (3)：大火收汁啦！！！！剩余少部分汤汁的时候放少许鸡精、蚝油提鲜。（考虑可选加味精，最后也可以拌入少许香油）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000042",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000042_what_are_step_imgs_doing_8.jpg</img>，(2) <img>results/imgs\\103371884_0000000042_what_are_step_imgs_doing_6.jpg</img>，(3) <img>results/imgs\\103371884_0000000042_what_are_step_imgs_doing_5.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：食材都炖熟，炖软后放入香菜，继续盖盖炖一会儿。图 (2)：然后放入之前炸好的小土豆烧味炒色。再加入豇豆断 尽量翻炒几下…加水炖.（水不要太多，多加酱油，也可放入豆瓣酱炒香，怕糊可以加水后在汤汁中加酱）图 (3)：焦黄煎出部分油脂后放入所有香料炒，炒香后烹入生抽、老抽，加糖炒匀。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000043",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000043_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103371884_0000000043_what_are_step_imgs_doing_8.jpg</img>，(3) <img>results/imgs\\103371884_0000000043_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：准备好食材图 (2)：食材都炖熟，炖软后放入香菜，继续盖盖炖一会儿。图 (3)：锅中留部分油开始煎肉，（也可以先爆香香料碟中材料）本次是为了逼出更多油脂考虑先减肉。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000044",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103371884_0000000044_what_are_step_imgs_doing_4.jpg</img>，(2) <img>results/imgs\\103371884_0000000044_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103371884_0000000044_what_are_step_imgs_doing_6.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：锅中留部分油开始煎肉，（也可以先爆香香料碟中材料）本次是为了逼出更多油脂考虑先减肉。图 (2)：准备好食材图 (3)：然后放入之前炸好的小土豆烧味炒色。再加入豇豆断 尽量翻炒几下…加水炖.（水不要太多，多加酱油，也可放入豆瓣酱炒香，怕糊可以加水后在汤汁中加酱）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000045",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "小土豆，豇豆，尖椒，芹菜，葱段，蒜瓣，姜片，香叶、桂皮、八角，五花肉，老抽、生抽、糖、豆瓣酱、料酒"
+            }
+        ]
+    },
+    {
+        "id": "0000000046",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：小土豆有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "若干个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000047",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：豇豆有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "若干。"
+            }
+        ]
+    },
+    {
+        "id": "0000000048",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：尖椒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000049",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：芹菜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "一小把。"
+            }
+        ]
+    },
+    {
+        "id": "0000000050",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱段有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3段。"
+            }
+        ]
+    },
+    {
+        "id": "0000000051",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蒜瓣有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "若干。"
+            }
+        ]
+    },
+    {
+        "id": "0000000052",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜片有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "若干。"
+            }
+        ]
+    },
+    {
+        "id": "0000000053",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：香叶、桂皮、八角有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "若干。"
+            }
+        ]
+    },
+    {
+        "id": "0000000054",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：五花肉有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "一条。"
+            }
+        ]
+    },
+    {
+        "id": "0000000055",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000045_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：老抽、生抽、糖、豆瓣酱、料酒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000056",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103371884_0000000056_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "沈阳小土豆咸菜的做法步骤图，怎么做好吃"
+            }
+        ]
+    },
+    {
+        "id": "0000000057",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000057_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将三汤勺黄米面放在碗中，用开水活成很稀的面糊，姥姥说这叫烫面"
+            }
+        ]
+    },
+    {
+        "id": "0000000058",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000058_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "逐步加剩下的玉米面和三汤勺玉米面，加玉米面是为了防止黄米面太黏了，蒸出来的豆包不好成型。如果太干了，加点凉水，用手攥成拳头揣面"
+            }
+        ]
+    },
+    {
+        "id": "0000000059",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000059_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "混合均匀，活成不粘手也不干的面团"
+            }
+        ]
+    },
+    {
+        "id": "0000000060",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000060_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "用湿布醒发几个小时，我是前一天晚上发面，第二天包的"
+            }
+        ]
+    },
+    {
+        "id": "0000000061",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000061_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "红豆用水泡一晚上。时间不够的话几个小时也行，记得多放水，这个豆子会膨胀"
+            }
+        ]
+    },
+    {
+        "id": "0000000062",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000062_what_is_step_img_doing_5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "泡好的红豆加水放入锅中，大火烧开之后中火炖一小时左右，期间要记得用铲子翻一下，否则会粘锅，水少了加水。到图中状态之后，加入适量白糖，用勺子搅拌，至豆子软烂，加一丢丢盐搅拌均匀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000063",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000063_what_is_step_img_doing_6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "这是搅拌好的状态，喜欢细腻的也可以用料理机搅拌哼豆沙之后再炒干"
+            }
+        ]
+    },
+    {
+        "id": "0000000064",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000064_what_is_step_img_doing_7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把豆沙馅攥成团备用"
+            }
+        ]
+    },
+    {
+        "id": "0000000065",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000065_what_is_step_img_doing_8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "取一块发好的面，用手按成扁的，包入一个豆沙馅，慢慢收口，用两只手团圆。"
+            }
+        ]
+    },
+    {
+        "id": "0000000066",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000066_what_is_step_img_doing_9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放入蒸笼，传统的东北吃法是垫白菜叶苏子叶，或者提布，这里我垫的是烘焙用的耐高温吸油纸，好处是不粘锅，而且吃不完可以连着纸一起冻起来，下次吃几个就热几个，连着吸油纸撕下来不粘容器。"
+            }
+        ]
+    },
+    {
+        "id": "0000000067",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000067_what_is_step_img_doing_10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "蒸二十分钟左右，关火，出锅。稍微凉一下再吃，不然揭下来的时候容易破。也可以沾水往下揭。吃的时候记得蘸白糖，超级好吃😋 吃不完的冻起来，下次一蒸一样好吃。"
+            }
+        ]
+    },
+    {
+        "id": "0000000068",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000068_how_to_sort_step_imgs_6.jpg</img>，(2) <img>results/imgs\\103408122_0000000068_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103408122_0000000068_how_to_sort_step_imgs_9.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(1)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000069",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000069_how_to_sort_step_imgs_6.jpg</img>，(2) <img>results/imgs\\103408122_0000000069_how_to_sort_step_imgs_8.jpg</img>，(3) <img>results/imgs\\103408122_0000000069_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000070",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000070_how_to_sort_step_imgs_3.jpg</img>，(2) <img>results/imgs\\103408122_0000000070_how_to_sort_step_imgs_7.jpg</img>，(3) <img>results/imgs\\103408122_0000000070_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000071",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000071_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103408122_0000000071_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103408122_0000000071_how_to_sort_step_imgs_8.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(2)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000072",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000072_how_to_sort_step_imgs_0.jpg</img>，(2) <img>results/imgs\\103408122_0000000072_how_to_sort_step_imgs_6.jpg</img>，(3) <img>results/imgs\\103408122_0000000072_how_to_sort_step_imgs_5.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000073",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000073_what_are_step_imgs_doing_6.jpg</img>，(2) <img>results/imgs\\103408122_0000000073_what_are_step_imgs_doing_4.jpg</img>，(3) <img>results/imgs\\103408122_0000000073_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：这是搅拌好的状态，喜欢细腻的也可以用料理机搅拌哼豆沙之后再炒干图 (2)：红豆用水泡一晚上。时间不够的话几个小时也行，记得多放水，这个豆子会膨胀图 (3)：逐步加剩下的玉米面和三汤勺玉米面，加玉米面是为了防止黄米面太黏了，蒸出来的豆包不好成型。如果太干了，加点凉水，用手攥成拳头揣面。"
+            }
+        ]
+    },
+    {
+        "id": "0000000074",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000074_what_are_step_imgs_doing_9.jpg</img>，(2) <img>results/imgs\\103408122_0000000074_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103408122_0000000074_what_are_step_imgs_doing_6.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：放入蒸笼，传统的东北吃法是垫白菜叶苏子叶，或者提布，这里我垫的是烘焙用的耐高温吸油纸，好处是不粘锅，而且吃不完可以连着纸一起冻起来，下次吃几个就热几个，连着吸油纸撕下来不粘容器。图 (2)：混合均匀，活成不粘手也不干的面团图 (3)：这是搅拌好的状态，喜欢细腻的也可以用料理机搅拌哼豆沙之后再炒干。"
+            }
+        ]
+    },
+    {
+        "id": "0000000075",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000075_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103408122_0000000075_what_are_step_imgs_doing_8.jpg</img>，(3) <img>results/imgs\\103408122_0000000075_what_are_step_imgs_doing_10.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：用湿布醒发几个小时，我是前一天晚上发面，第二天包的图 (2)：取一块发好的面，用手按成扁的，包入一个豆沙馅，慢慢收口，用两只手团圆。图 (3)：蒸二十分钟左右，关火，出锅。稍微凉一下再吃，不然揭下来的时候容易破。也可以沾水往下揭。吃的时候记得蘸白糖，超级好吃😋 吃不完的冻起来，下次一蒸一样好吃。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000076",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000076_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103408122_0000000076_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103408122_0000000076_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：混合均匀，活成不粘手也不干的面团图 (2)：将三汤勺黄米面放在碗中，用开水活成很稀的面糊，姥姥说这叫烫面图 (3)：红豆用水泡一晚上。时间不够的话几个小时也行，记得多放水，这个豆子会膨胀。"
+            }
+        ]
+    },
+    {
+        "id": "0000000077",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103408122_0000000077_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103408122_0000000077_what_are_step_imgs_doing_9.jpg</img>，(3) <img>results/imgs\\103408122_0000000077_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：混合均匀，活成不粘手也不干的面团图 (2)：放入蒸笼，传统的东北吃法是垫白菜叶苏子叶，或者提布，这里我垫的是烘焙用的耐高温吸油纸，好处是不粘锅，而且吃不完可以连着纸一起冻起来，下次吃几个就热几个，连着吸油纸撕下来不粘容器。图 (3)：将三汤勺黄米面放在碗中，用开水活成很稀的面糊，姥姥说这叫烫面。"
+            }
+        ]
+    },
+    {
+        "id": "0000000078",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000078_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "粘米面，玉米面，红小豆，开水"
+            }
+        ]
+    },
+    {
+        "id": "0000000079",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000078_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：粘米面有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "500g。"
+            }
+        ]
+    },
+    {
+        "id": "0000000080",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000078_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：玉米面有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "三汤勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000081",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000078_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：红小豆有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "300g。"
+            }
+        ]
+    },
+    {
+        "id": "0000000082",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000078_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：开水有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000083",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103408122_0000000083_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "东北家常菜之姥姥家的粘豆包的做法步骤图"
+            }
+        ]
+    },
+    {
+        "id": "0000000084",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000084_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "砂锅里放进排骨和水，煮出血水，这次排骨貌似没有"
+            }
+        ]
+    },
+    {
+        "id": "0000000085",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000085_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "基本原材料准备好，白菜像我图片上那种片一下，叶和梗分开放"
+            }
+        ]
+    },
+    {
+        "id": "0000000086",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000086_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "葱姜蒜爆锅，然后放进去五花肉，有猪油跑出来，吃的比较香"
+            }
+        ]
+    },
+    {
+        "id": "0000000087",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000087_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放进去排骨，生抽老抽料酒盐，老抽放多了，色有点重了"
+            }
+        ]
+    },
+    {
+        "id": "0000000088",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000088_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "炒香后，放入水，干辣椒，十三香"
+            }
+        ]
+    },
+    {
+        "id": "0000000089",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000089_what_is_step_img_doing_5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "煮开后，加水，在煮开，再加水，一直到排骨软了，能吃为止"
+            }
+        ]
+    },
+    {
+        "id": "0000000090",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000090_what_is_step_img_doing_6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "把白菜梗放进去，在放豆腐，梗不容易熟"
+            }
+        ]
+    },
+    {
+        "id": "0000000091",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000091_what_is_step_img_doing_7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "煮至看不见白菜梗了"
+            }
+        ]
+    },
+    {
+        "id": "0000000092",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000092_what_is_step_img_doing_8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放入白菜叶"
+            }
+        ]
+    },
+    {
+        "id": "0000000093",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000093_what_is_step_img_doing_9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "一直煮，这样差不多就好了"
+            }
+        ]
+    },
+    {
         "id": "0000000094",
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：花椒面有多少？"
+                "value": "图：<img>results/imgs\\103567752_0000000094_what_is_step_img_doing_10.jpg</img>，图中在做什么？"
             },
             {
                 "from": "assistant",
-                "value": "5克。"
+                "value": "吃饭啦"
             }
         ]
     },
@@ -1239,11 +1239,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：辣椒面有多少？"
+                "value": "(1) <img>results/imgs\\103567752_0000000095_how_to_sort_step_imgs_8.jpg</img>，(2) <img>results/imgs\\103567752_0000000095_how_to_sort_step_imgs_10.jpg</img>，(3) <img>results/imgs\\103567752_0000000095_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
             },
             {
                 "from": "assistant",
-                "value": "3克。"
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
             }
         ]
     },
@@ -1252,11 +1252,11 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000080_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：小米椒有多少？"
+                "value": "(1) <img>results/imgs\\103567752_0000000096_how_to_sort_step_imgs_8.jpg</img>，(2) <img>results/imgs\\103567752_0000000096_how_to_sort_step_imgs_9.jpg</img>，(3) <img>results/imgs\\103567752_0000000096_how_to_sort_step_imgs_7.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
             },
             {
                 "from": "assistant",
-                "value": "几棵。"
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
             }
         ]
     },
@@ -1265,11 +1265,3209 @@
         "conversations": [
             {
                 "from": "user",
-                "value": "图：<img>results/imgs\\950_0000000097_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+                "value": "(1) <img>results/imgs\\103567752_0000000097_how_to_sort_step_imgs_9.jpg</img>，(2) <img>results/imgs\\103567752_0000000097_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103567752_0000000097_how_to_sort_step_imgs_5.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
             },
             {
                 "from": "assistant",
-                "value": "水煮牛肉"
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000098",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103567752_0000000098_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103567752_0000000098_how_to_sort_step_imgs_0.jpg</img>，(3) <img>results/imgs\\103567752_0000000098_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(1)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000099",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103567752_0000000099_how_to_sort_step_imgs_4.jpg</img>，(2) <img>results/imgs\\103567752_0000000099_how_to_sort_step_imgs_10.jpg</img>，(3) <img>results/imgs\\103567752_0000000099_how_to_sort_step_imgs_8.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000100",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103567752_0000000100_what_are_step_imgs_doing_4.jpg</img>，(2) <img>results/imgs\\103567752_0000000100_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103567752_0000000100_what_are_step_imgs_doing_7.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：炒香后，放入水，干辣椒，十三香图 (2)：砂锅里放进排骨和水，煮出血水，这次排骨貌似没有图 (3)：煮至看不见白菜梗了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000101",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103567752_0000000101_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103567752_0000000101_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103567752_0000000101_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：放进去排骨，生抽老抽料酒盐，老抽放多了，色有点重了图 (2)：砂锅里放进排骨和水，煮出血水，这次排骨貌似没有图 (3)：炒香后，放入水，干辣椒，十三香。"
+            }
+        ]
+    },
+    {
+        "id": "0000000102",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103567752_0000000102_what_are_step_imgs_doing_5.jpg</img>，(2) <img>results/imgs\\103567752_0000000102_what_are_step_imgs_doing_3.jpg</img>，(3) <img>results/imgs\\103567752_0000000102_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：煮开后，加水，在煮开，再加水，一直到排骨软了，能吃为止图 (2)：放进去排骨，生抽老抽料酒盐，老抽放多了，色有点重了图 (3)：炒香后，放入水，干辣椒，十三香。"
+            }
+        ]
+    },
+    {
+        "id": "0000000103",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103567752_0000000103_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103567752_0000000103_what_are_step_imgs_doing_3.jpg</img>，(3) <img>results/imgs\\103567752_0000000103_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：葱姜蒜爆锅，然后放进去五花肉，有猪油跑出来，吃的比较香图 (2)：放进去排骨，生抽老抽料酒盐，老抽放多了，色有点重了图 (3)：炒香后，放入水，干辣椒，十三香。"
+            }
+        ]
+    },
+    {
+        "id": "0000000104",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103567752_0000000104_what_are_step_imgs_doing_6.jpg</img>，(2) <img>results/imgs\\103567752_0000000104_what_are_step_imgs_doing_7.jpg</img>，(3) <img>results/imgs\\103567752_0000000104_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：把白菜梗放进去，在放豆腐，梗不容易熟图 (2)：煮至看不见白菜梗了图 (3)：炒香后，放入水，干辣椒，十三香。"
+            }
+        ]
+    },
+    {
+        "id": "0000000105",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000105_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "五花肉，白菜，排骨，葱姜蒜，干辣椒，盐，料酒，生抽，老抽，十三香"
+            }
+        ]
+    },
+    {
+        "id": "0000000106",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000105_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：五花肉有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量爆锅用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000107",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000105_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：白菜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "6片叶子。"
+            }
+        ]
+    },
+    {
+        "id": "0000000108",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000105_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：排骨有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "6块。"
+            }
+        ]
+    },
+    {
+        "id": "0000000109",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000105_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱姜蒜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "看自己喜好。"
+            }
+        ]
+    },
+    {
+        "id": "0000000110",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000105_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：干辣椒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "6个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000111",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000105_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐，料酒，生抽，老抽，十三香有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "我真的是随心情瞎放。"
+            }
+        ]
+    },
+    {
+        "id": "0000000112",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103567752_0000000112_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "东北特色炖菜--砂锅🍲大白菜豆腐炖排骨五花肉的做法步骤图"
+            }
+        ]
+    },
+    {
+        "id": "0000000113",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000113_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "通脊、彩椒、洋葱"
+            }
+        ]
+    },
+    {
+        "id": "0000000114",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000114_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "里脊肉清洗过后控干水，先切成片"
+            }
+        ]
+    },
+    {
+        "id": "0000000115",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000115_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "再切成方丁"
+            }
+        ]
+    },
+    {
+        "id": "0000000116",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000116_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "一定要使用土豆淀粉，炸好的外皮比较脆。"
+            }
+        ]
+    },
+    {
+        "id": "0000000117",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000117_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "土豆淀粉放到碗里"
+            }
+        ]
+    },
+    {
+        "id": "0000000118",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000118_what_is_step_img_doing_5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "加水"
+            }
+        ]
+    },
+    {
+        "id": "0000000119",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000119_what_is_step_img_doing_6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "调成糊浆状"
+            }
+        ]
+    },
+    {
+        "id": "0000000120",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000120_what_is_step_img_doing_7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "然后静置十五分钟左右，淀粉分层，把上层的水倒掉。"
+            }
+        ]
+    },
+    {
+        "id": "0000000121",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000121_what_is_step_img_doing_8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "淀粉水慢慢加入肉丁"
+            }
+        ]
+    },
+    {
+        "id": "0000000122",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000122_what_is_step_img_doing_9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "淀粉水和肉丁抓匀"
+            }
+        ]
+    },
+    {
+        "id": "0000000123",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000123_what_is_step_img_doing_10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "再加入两大勺植物油，拌匀，防止下油锅后肉丁粘连。"
+            }
+        ]
+    },
+    {
+        "id": "0000000124",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000124_what_is_step_img_doing_11.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "锅里加宽油，烧至七成热时把肉丁一块一块的下锅"
+            }
+        ]
+    },
+    {
+        "id": "0000000125",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000125_what_is_step_img_doing_12.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "慢炸肉丁"
+            }
+        ]
+    },
+    {
+        "id": "0000000126",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000126_what_is_step_img_doing_13.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "炸成微黄酥脆时捞出。"
+            }
+        ]
+    },
+    {
+        "id": "0000000127",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000127_what_is_step_img_doing_14.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "待火九成热时复炸至金黄色，酥脆酥脆。"
+            }
+        ]
+    },
+    {
+        "id": "0000000128",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000128_what_is_step_img_doing_15.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "准备调料"
+            }
+        ]
+    },
+    {
+        "id": "0000000129",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000129_what_is_step_img_doing_16.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "所有调料调配在一起，两勺生抽、一勺蚝油、白糖加入半碗水，少许食盐调味，最后加入少许淀粉水搅匀备用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000130",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000130_what_is_step_img_doing_17.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "青椒和红椒和洋葱切块，放入油里略炸"
+            }
+        ]
+    },
+    {
+        "id": "0000000131",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000131_what_is_step_img_doing_18.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "捞出控油"
+            }
+        ]
+    },
+    {
+        "id": "0000000132",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000132_what_is_step_img_doing_19.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "炒锅油热加入葱蒜片"
+            }
+        ]
+    },
+    {
+        "id": "0000000133",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000133_what_is_step_img_doing_20.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "倒入调料汁"
+            }
+        ]
+    },
+    {
+        "id": "0000000134",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000134_what_is_step_img_doing_21.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "炒至浓稠"
+            }
+        ]
+    },
+    {
+        "id": "0000000135",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000135_what_is_step_img_doing_22.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放炸好的肉丁和青红椒、洋葱丁"
+            }
+        ]
+    },
+    {
+        "id": "0000000136",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000136_what_is_step_img_doing_23.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "超匀即可装盘"
+            }
+        ]
+    },
+    {
+        "id": "0000000137",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000137_what_is_step_img_doing_24.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "超级下饭的一道菜，开动！"
+            }
+        ]
+    },
+    {
+        "id": "0000000138",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000138_how_to_sort_step_imgs_13.jpg</img>，(2) <img>results/imgs\\103568829_0000000138_how_to_sort_step_imgs_5.jpg</img>，(3) <img>results/imgs\\103568829_0000000138_how_to_sort_step_imgs_6.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000139",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000139_how_to_sort_step_imgs_22.jpg</img>，(2) <img>results/imgs\\103568829_0000000139_how_to_sort_step_imgs_19.jpg</img>，(3) <img>results/imgs\\103568829_0000000139_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000140",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000140_how_to_sort_step_imgs_22.jpg</img>，(2) <img>results/imgs\\103568829_0000000140_how_to_sort_step_imgs_24.jpg</img>，(3) <img>results/imgs\\103568829_0000000140_how_to_sort_step_imgs_18.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000141",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000141_how_to_sort_step_imgs_5.jpg</img>，(2) <img>results/imgs\\103568829_0000000141_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103568829_0000000141_how_to_sort_step_imgs_22.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(1)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000142",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000142_how_to_sort_step_imgs_21.jpg</img>，(2) <img>results/imgs\\103568829_0000000142_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103568829_0000000142_how_to_sort_step_imgs_13.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000143",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000143_what_are_step_imgs_doing_14.jpg</img>，(2) <img>results/imgs\\103568829_0000000143_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103568829_0000000143_what_are_step_imgs_doing_6.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：待火九成热时复炸至金黄色，酥脆酥脆。图 (2)：里脊肉清洗过后控干水，先切成片图 (3)：调成糊浆状。"
+            }
+        ]
+    },
+    {
+        "id": "0000000144",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000144_what_are_step_imgs_doing_8.jpg</img>，(2) <img>results/imgs\\103568829_0000000144_what_are_step_imgs_doing_3.jpg</img>，(3) <img>results/imgs\\103568829_0000000144_what_are_step_imgs_doing_21.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：淀粉水慢慢加入肉丁图 (2)：一定要使用土豆淀粉，炸好的外皮比较脆。图 (3)：炒至浓稠。"
+            }
+        ]
+    },
+    {
+        "id": "0000000145",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000145_what_are_step_imgs_doing_23.jpg</img>，(2) <img>results/imgs\\103568829_0000000145_what_are_step_imgs_doing_24.jpg</img>，(3) <img>results/imgs\\103568829_0000000145_what_are_step_imgs_doing_14.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：超匀即可装盘图 (2)：超级下饭的一道菜，开动！图 (3)：待火九成热时复炸至金黄色，酥脆酥脆。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000146",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000146_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103568829_0000000146_what_are_step_imgs_doing_11.jpg</img>，(3) <img>results/imgs\\103568829_0000000146_what_are_step_imgs_doing_8.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：通脊、彩椒、洋葱图 (2)：锅里加宽油，烧至七成热时把肉丁一块一块的下锅图 (3)：淀粉水慢慢加入肉丁。"
+            }
+        ]
+    },
+    {
+        "id": "0000000147",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103568829_0000000147_what_are_step_imgs_doing_12.jpg</img>，(2) <img>results/imgs\\103568829_0000000147_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103568829_0000000147_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：慢炸肉丁图 (2)：再切成方丁图 (3)：土豆淀粉放到碗里。"
+            }
+        ]
+    },
+    {
+        "id": "0000000148",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000148_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "材料：通脊一块、红彩椒、绿彩椒、洋葱、土豆淀粉、食盐、大葱、大蒜、蚝油、生抽、白糖"
+            }
+        ]
+    },
+    {
+        "id": "0000000149",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000148_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：材料：通脊一块、红彩椒、绿彩椒、洋葱、土豆淀粉、食盐、大葱、大蒜、蚝油、生抽、白糖有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000150",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103568829_0000000150_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "堂妈小厨——东北溜肉段的做法步骤图"
+            }
+        ]
+    },
+    {
+        "id": "0000000151",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000151_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "五花肉洗净切片白菜切大块（菜帮我不爱吃去掉的比较多）"
+            }
+        ]
+    },
+    {
+        "id": "0000000152",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000152_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "锅里油热放1-2个干尖椒，接着放葱、姜、蒜爆香放入五花肉翻炒至微卷加入适量酱油翻炒两下"
+            }
+        ]
+    },
+    {
+        "id": "0000000153",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000153_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "放入白菜翻炒两下锅里加水水量没过白菜，红薯粉条冲洗后放入，加八角2个、桂皮小段、香叶3片、食盐、酱油（别多了）、料酒盖锅盖大火炖咱家是做粉条的，农家手工红薯粉条，老爸做的，有需要的朋友可以尝尝（不是超市那种品质哦）"
+            }
+        ]
+    },
+    {
+        "id": "0000000154",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000154_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "水量变少的时候转小火收汁准备出锅，汤多汤少自己控制，我喜欢汤多一些的"
+            }
+        ]
+    },
+    {
+        "id": "0000000155",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000155_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "晒下你的厨艺吧"
+            }
+        ]
+    },
+    {
+        "id": "0000000156",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000156_how_to_sort_step_imgs_0.jpg</img>，(2) <img>results/imgs\\103656721_0000000156_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103656721_0000000156_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000157",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000157_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103656721_0000000157_how_to_sort_step_imgs_4.jpg</img>，(3) <img>results/imgs\\103656721_0000000157_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000158",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000158_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103656721_0000000158_how_to_sort_step_imgs_4.jpg</img>，(3) <img>results/imgs\\103656721_0000000158_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000159",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000159_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103656721_0000000159_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103656721_0000000159_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(2)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000160",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000160_how_to_sort_step_imgs_0.jpg</img>，(2) <img>results/imgs\\103656721_0000000160_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103656721_0000000160_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000161",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000161_what_are_step_imgs_doing_4.jpg</img>，(2) <img>results/imgs\\103656721_0000000161_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103656721_0000000161_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：晒下你的厨艺吧图 (2)：放入白菜翻炒两下锅里加水水量没过白菜，红薯粉条冲洗后放入，加八角2个、桂皮小段、香叶3片、食盐、酱油（别多了）、料酒盖锅盖大火炖咱家是做粉条的，农家手工红薯粉条，老爸做的，有需要的朋友可以尝尝（不是超市那种品质哦）图 (3)：五花肉洗净切片白菜切大块（菜帮我不爱吃去掉的比较多）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000162",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000162_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103656721_0000000162_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103656721_0000000162_what_are_step_imgs_doing_3.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：放入白菜翻炒两下锅里加水水量没过白菜，红薯粉条冲洗后放入，加八角2个、桂皮小段、香叶3片、食盐、酱油（别多了）、料酒盖锅盖大火炖咱家是做粉条的，农家手工红薯粉条，老爸做的，有需要的朋友可以尝尝（不是超市那种品质哦）图 (2)：锅里油热放1-2个干尖椒，接着放葱、姜、蒜爆香放入五花肉翻炒至微卷加入适量酱油翻炒两下图 (3)：水量变少的时候转小火收汁准备出锅，汤多汤少自己控制，我喜欢汤多一些的。"
+            }
+        ]
+    },
+    {
+        "id": "0000000163",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000163_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103656721_0000000163_what_are_step_imgs_doing_3.jpg</img>，(3) <img>results/imgs\\103656721_0000000163_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：放入白菜翻炒两下锅里加水水量没过白菜，红薯粉条冲洗后放入，加八角2个、桂皮小段、香叶3片、食盐、酱油（别多了）、料酒盖锅盖大火炖咱家是做粉条的，农家手工红薯粉条，老爸做的，有需要的朋友可以尝尝（不是超市那种品质哦）图 (2)：水量变少的时候转小火收汁准备出锅，汤多汤少自己控制，我喜欢汤多一些的图 (3)：锅里油热放1-2个干尖椒，接着放葱、姜、蒜爆香放入五花肉翻炒至微卷加入适量酱油翻炒两下。"
+            }
+        ]
+    },
+    {
+        "id": "0000000164",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000164_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103656721_0000000164_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103656721_0000000164_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：五花肉洗净切片白菜切大块（菜帮我不爱吃去掉的比较多）图 (2)：放入白菜翻炒两下锅里加水水量没过白菜，红薯粉条冲洗后放入，加八角2个、桂皮小段、香叶3片、食盐、酱油（别多了）、料酒盖锅盖大火炖咱家是做粉条的，农家手工红薯粉条，老爸做的，有需要的朋友可以尝尝（不是超市那种品质哦）图 (3)：锅里油热放1-2个干尖椒，接着放葱、姜、蒜爆香放入五花肉翻炒至微卷加入适量酱油翻炒两下。"
+            }
+        ]
+    },
+    {
+        "id": "0000000165",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103656721_0000000165_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103656721_0000000165_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103656721_0000000165_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：水量变少的时候转小火收汁准备出锅，汤多汤少自己控制，我喜欢汤多一些的图 (2)：五花肉洗净切片白菜切大块（菜帮我不爱吃去掉的比较多）图 (3)：晒下你的厨艺吧。"
+            }
+        ]
+    },
+    {
+        "id": "0000000166",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000166_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "五花肉，白菜，红薯粉条，葱、姜、蒜，食盐、酱油、料酒，八角、桂皮、香叶，干尖椒"
+            }
+        ]
+    },
+    {
+        "id": "0000000167",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000166_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：五花肉有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000168",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000166_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：白菜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000169",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000166_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：红薯粉条有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000170",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000166_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱、姜、蒜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000171",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000166_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：食盐、酱油、料酒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000172",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000166_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：八角、桂皮、香叶有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000173",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000166_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：干尖椒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000174",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103656721_0000000174_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "猪肉炖粉条的做法视频_猪肉炖粉条的做法步骤"
+            }
+        ]
+    },
+    {
+        "id": "0000000175",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000175_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "将玉米粉、面粉、酵母加水和成面团，室温发酵或者过夜冷藏发酵都可以"
+            }
+        ]
+    },
+    {
+        "id": "0000000176",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000176_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "红椒切块，青蒜切段；鱼切花刀，加盐和料酒腌制"
+            }
+        ]
+    },
+    {
+        "id": "0000000177",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000177_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "甜面酱、生抽、蚝油拌匀，在一旁待命"
+            }
+        ]
+    },
+    {
+        "id": "0000000178",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000178_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "大铁锅多烧点热油，鱼擦干后下锅"
+            }
+        ]
+    },
+    {
+        "id": "0000000179",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000179_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "煎至金黄，单面煎至可以滑动再翻面哦"
+            }
+        ]
+    },
+    {
+        "id": "0000000180",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000180_what_is_step_img_doing_5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "加入姜、蒜、八角和干辣椒翻炒，再加入之前的混合酱料炒香"
+            }
+        ]
+    },
+    {
+        "id": "0000000181",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000181_what_is_step_img_doing_6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "倒入啤酒和高汤煮开后，迅速在周围贴上玉米饼，而后盖上锅盖焖煮几分钟"
+            }
+        ]
+    },
+    {
+        "id": "0000000182",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000182_what_is_step_img_doing_7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "滴上香醋，撒上青蒜和红椒，硬核铁锅炖鱼就做好啦"
+            }
+        ]
+    },
+    {
+        "id": "0000000183",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000183_what_is_step_img_doing_8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "关注公众号“曼食慢语”，回复“年夜饭”看2016-2019年年夜饭合集"
+            }
+        ]
+    },
+    {
+        "id": "0000000184",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000184_how_to_sort_step_imgs_7.jpg</img>，(2) <img>results/imgs\\103668624_0000000184_how_to_sort_step_imgs_3.jpg</img>，(3) <img>results/imgs\\103668624_0000000184_how_to_sort_step_imgs_6.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000185",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000185_how_to_sort_step_imgs_4.jpg</img>，(2) <img>results/imgs\\103668624_0000000185_how_to_sort_step_imgs_7.jpg</img>，(3) <img>results/imgs\\103668624_0000000185_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000186",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000186_how_to_sort_step_imgs_7.jpg</img>，(2) <img>results/imgs\\103668624_0000000186_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103668624_0000000186_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000187",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000187_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103668624_0000000187_how_to_sort_step_imgs_3.jpg</img>，(3) <img>results/imgs\\103668624_0000000187_how_to_sort_step_imgs_6.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(2)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000188",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000188_how_to_sort_step_imgs_8.jpg</img>，(2) <img>results/imgs\\103668624_0000000188_how_to_sort_step_imgs_0.jpg</img>，(3) <img>results/imgs\\103668624_0000000188_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000189",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000189_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103668624_0000000189_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103668624_0000000189_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：大铁锅多烧点热油，鱼擦干后下锅图 (2)：红椒切块，青蒜切段；鱼切花刀，加盐和料酒腌制图 (3)：将玉米粉、面粉、酵母加水和成面团，室温发酵或者过夜冷藏发酵都可以。"
+            }
+        ]
+    },
+    {
+        "id": "0000000190",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000190_what_are_step_imgs_doing_7.jpg</img>，(2) <img>results/imgs\\103668624_0000000190_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103668624_0000000190_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：滴上香醋，撒上青蒜和红椒，硬核铁锅炖鱼就做好啦图 (2)：将玉米粉、面粉、酵母加水和成面团，室温发酵或者过夜冷藏发酵都可以图 (3)：煎至金黄，单面煎至可以滑动再翻面哦。"
+            }
+        ]
+    },
+    {
+        "id": "0000000191",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000191_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103668624_0000000191_what_are_step_imgs_doing_8.jpg</img>，(3) <img>results/imgs\\103668624_0000000191_what_are_step_imgs_doing_3.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：将玉米粉、面粉、酵母加水和成面团，室温发酵或者过夜冷藏发酵都可以图 (2)：关注公众号“曼食慢语”，回复“年夜饭”看2016-2019年年夜饭合集图 (3)：大铁锅多烧点热油，鱼擦干后下锅。"
+            }
+        ]
+    },
+    {
+        "id": "0000000192",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000192_what_are_step_imgs_doing_4.jpg</img>，(2) <img>results/imgs\\103668624_0000000192_what_are_step_imgs_doing_6.jpg</img>，(3) <img>results/imgs\\103668624_0000000192_what_are_step_imgs_doing_7.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：煎至金黄，单面煎至可以滑动再翻面哦图 (2)：倒入啤酒和高汤煮开后，迅速在周围贴上玉米饼，而后盖上锅盖焖煮几分钟图 (3)：滴上香醋，撒上青蒜和红椒，硬核铁锅炖鱼就做好啦。"
+            }
+        ]
+    },
+    {
+        "id": "0000000193",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103668624_0000000193_what_are_step_imgs_doing_5.jpg</img>，(2) <img>results/imgs\\103668624_0000000193_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103668624_0000000193_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：加入姜、蒜、八角和干辣椒翻炒，再加入之前的混合酱料炒香图 (2)：甜面酱、生抽、蚝油拌匀，在一旁待命图 (3)：将玉米粉、面粉、酵母加水和成面团，室温发酵或者过夜冷藏发酵都可以。"
+            }
+        ]
+    },
+    {
+        "id": "0000000194",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "鱼（鲈鱼、草鱼或鳜鱼都可），面饼，玉米面，中筋面粉，干酵母，清水，腌料，盐，料酒，炒料，蒜，姜片，八角，干辣椒，啤酒，甜面酱，蚝油，生抽，高汤，红椒，青蒜，醋"
+            }
+        ]
+    },
+    {
+        "id": "0000000195",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：鱼（鲈鱼、草鱼或鳜鱼都可）有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1整条（约1斤半）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000196",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：面饼有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000197",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：玉米面有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "80g。"
+            }
+        ]
+    },
+    {
+        "id": "0000000198",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：中筋面粉有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "60g。"
+            }
+        ]
+    },
+    {
+        "id": "0000000199",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：干酵母有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1g。"
+            }
+        ]
+    },
+    {
+        "id": "0000000200",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：清水有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "110ml。"
+            }
+        ]
+    },
+    {
+        "id": "0000000201",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：腌料有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000202",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000203",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：料酒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000204",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：炒料有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000205",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蒜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "8瓣。"
+            }
+        ]
+    },
+    {
+        "id": "0000000206",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜片有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "6片。"
+            }
+        ]
+    },
+    {
+        "id": "0000000207",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：八角有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "2个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000208",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：干辣椒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "5个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000209",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：啤酒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "150ml。"
+            }
+        ]
+    },
+    {
+        "id": "0000000210",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：甜面酱有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "2大勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000211",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蚝油有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1大勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000212",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：生抽有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1大勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000213",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：高汤有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "300ml。"
+            }
+        ]
+    },
+    {
+        "id": "0000000214",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：红椒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1/2个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000215",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：青蒜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "2根。"
+            }
+        ]
+    },
+    {
+        "id": "0000000216",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000194_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：醋有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1小勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000217",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103668624_0000000217_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "曼食慢语"
+            }
+        ]
+    },
+    {
+        "id": "0000000218",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000218_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "榛蘑提前两小时用凉水泡开"
+            }
+        ]
+    },
+    {
+        "id": "0000000219",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000219_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "剪干净干部杂质"
+            }
+        ]
+    },
+    {
+        "id": "0000000220",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000220_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "洗干净，我洗了四次"
+            }
+        ]
+    },
+    {
+        "id": "0000000221",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000221_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "撕成大块备用"
+            }
+        ]
+    },
+    {
+        "id": "0000000222",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000222_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "土鸡剁适当大小块，开水过一遍，捞出备用。锅内加油100毫升，油热后倒入鸡块，开始大火炒，约十分钟，加入葱姜蒜末，酱油，白酒，醋，大料，花椒，炒匀，加水炖，水要加足，没过鸡块十厘米，盐适量加入，喜欢吃辣的朋友，可以放些干辣椒一起炖，放入备好的榛蘑，中火一个半小时，收汤，出锅。"
+            }
+        ]
+    },
+    {
+        "id": "0000000223",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000223_what_is_step_img_doing_5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "榛蘑吸油，这样炖出来的鸡肉不油腻，肉香而烂，蘑菇非常好吃，胜过肉的味道。这个菜不怕剩，分装好每次热一盘，和新做的一样。"
+            }
+        ]
+    },
+    {
+        "id": "0000000224",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000224_how_to_sort_step_imgs_4.jpg</img>，(2) <img>results/imgs\\103671379_0000000224_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103671379_0000000224_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000225",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000225_how_to_sort_step_imgs_0.jpg</img>，(2) <img>results/imgs\\103671379_0000000225_how_to_sort_step_imgs_5.jpg</img>，(3) <img>results/imgs\\103671379_0000000225_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000226",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000226_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103671379_0000000226_how_to_sort_step_imgs_4.jpg</img>，(3) <img>results/imgs\\103671379_0000000226_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000227",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000227_how_to_sort_step_imgs_3.jpg</img>，(2) <img>results/imgs\\103671379_0000000227_how_to_sort_step_imgs_4.jpg</img>，(3) <img>results/imgs\\103671379_0000000227_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000228",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000228_how_to_sort_step_imgs_2.jpg</img>，(2) <img>results/imgs\\103671379_0000000228_how_to_sort_step_imgs_5.jpg</img>，(3) <img>results/imgs\\103671379_0000000228_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000229",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000229_what_are_step_imgs_doing_5.jpg</img>，(2) <img>results/imgs\\103671379_0000000229_what_are_step_imgs_doing_4.jpg</img>，(3) <img>results/imgs\\103671379_0000000229_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：榛蘑吸油，这样炖出来的鸡肉不油腻，肉香而烂，蘑菇非常好吃，胜过肉的味道。这个菜不怕剩，分装好每次热一盘，和新做的一样。图 (2)：土鸡剁适当大小块，开水过一遍，捞出备用。锅内加油100毫升，油热后倒入鸡块，开始大火炒，约十分钟，加入葱姜蒜末，酱油，白酒，醋，大料，花椒，炒匀，加水炖，水要加足，没过鸡块十厘米，盐适量加入，喜欢吃辣的朋友，可以放些干辣椒一起炖，放入备好的榛蘑，中火一个半小时，收汤，出锅。图 (3)：剪干净干部杂质。"
+            }
+        ]
+    },
+    {
+        "id": "0000000230",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000230_what_are_step_imgs_doing_4.jpg</img>，(2) <img>results/imgs\\103671379_0000000230_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103671379_0000000230_what_are_step_imgs_doing_2.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：土鸡剁适当大小块，开水过一遍，捞出备用。锅内加油100毫升，油热后倒入鸡块，开始大火炒，约十分钟，加入葱姜蒜末，酱油，白酒，醋，大料，花椒，炒匀，加水炖，水要加足，没过鸡块十厘米，盐适量加入，喜欢吃辣的朋友，可以放些干辣椒一起炖，放入备好的榛蘑，中火一个半小时，收汤，出锅。图 (2)：剪干净干部杂质图 (3)：洗干净，我洗了四次。"
+            }
+        ]
+    },
+    {
+        "id": "0000000231",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000231_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103671379_0000000231_what_are_step_imgs_doing_5.jpg</img>，(3) <img>results/imgs\\103671379_0000000231_what_are_step_imgs_doing_3.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：洗干净，我洗了四次图 (2)：榛蘑吸油，这样炖出来的鸡肉不油腻，肉香而烂，蘑菇非常好吃，胜过肉的味道。这个菜不怕剩，分装好每次热一盘，和新做的一样。图 (3)：撕成大块备用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000232",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000232_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103671379_0000000232_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103671379_0000000232_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：洗干净，我洗了四次图 (2)：榛蘑提前两小时用凉水泡开图 (3)：土鸡剁适当大小块，开水过一遍，捞出备用。锅内加油100毫升，油热后倒入鸡块，开始大火炒，约十分钟，加入葱姜蒜末，酱油，白酒，醋，大料，花椒，炒匀，加水炖，水要加足，没过鸡块十厘米，盐适量加入，喜欢吃辣的朋友，可以放些干辣椒一起炖，放入备好的榛蘑，中火一个半小时，收汤，出锅。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000233",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103671379_0000000233_what_are_step_imgs_doing_4.jpg</img>，(2) <img>results/imgs\\103671379_0000000233_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103671379_0000000233_what_are_step_imgs_doing_5.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：土鸡剁适当大小块，开水过一遍，捞出备用。锅内加油100毫升，油热后倒入鸡块，开始大火炒，约十分钟，加入葱姜蒜末，酱油，白酒，醋，大料，花椒，炒匀，加水炖，水要加足，没过鸡块十厘米，盐适量加入，喜欢吃辣的朋友，可以放些干辣椒一起炖，放入备好的榛蘑，中火一个半小时，收汤，出锅。图 (2)：洗干净，我洗了四次图 (3)：榛蘑吸油，这样炖出来的鸡肉不油腻，肉香而烂，蘑菇非常好吃，胜过肉的味道。这个菜不怕剩，分装好每次热一盘，和新做的一样。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000234",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "土鸡，榛蘑，八角，花椒，葱姜蒜末，盐，高度白酒，醋"
+            }
+        ]
+    },
+    {
+        "id": "0000000235",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：土鸡有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1只。"
+            }
+        ]
+    },
+    {
+        "id": "0000000236",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：榛蘑有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "300克。"
+            }
+        ]
+    },
+    {
+        "id": "0000000237",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：八角有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3-4个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000238",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：花椒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000239",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱姜蒜末有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000240",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000241",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：高度白酒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "一小勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000242",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000234_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：醋有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "一小勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000243",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103671379_0000000243_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "铁锅土鸡炖榛蘑的做法视频_做法步骤"
+            }
+        ]
+    },
+    {
+        "id": "0000000244",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000244_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "1.准备刚蒸熟的米饭2.蒸米饭时把大白菜洗净，只留上半截叶子部分，用开水烫下备用3.再准备葱花、香菜碎"
+            }
+        ]
+    },
+    {
+        "id": "0000000245",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000245_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "4.炒鸡蛋酱：鸡蛋四个打散放入锅中炒成鸡蛋花，用底油下两勺六月鲜豆瓣酱小火炒开重放鸡蛋花，加一小勺白糖翻炒均匀盛出5.再将一个土豆去皮切小块蒸熟备用6.蒸土豆的功夫，炸个花生米和辣椒油（辣椒油可以用老干妈辣豆豉代替味道也很好）"
+            }
+        ]
+    },
+    {
+        "id": "0000000246",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000246_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "7.最后将米饭中拌入黄豆酱、辣椒油、鸡蛋酱、土豆块、葱花、香菜、花生米翻拌均匀8.取一片白菜叶把拌饭放上包裹起来9.开啃！"
+            }
+        ]
+    },
+    {
+        "id": "0000000247",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000247_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103725697_0000000247_how_to_sort_step_imgs_0.jpg</img>，(3) <img>results/imgs\\103725697_0000000247_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(1)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000248",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000248_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103725697_0000000248_how_to_sort_step_imgs_0.jpg</img>，(3) <img>results/imgs\\103725697_0000000248_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(1)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000249",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000249_how_to_sort_step_imgs_2.jpg</img>，(2) <img>results/imgs\\103725697_0000000249_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103725697_0000000249_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000250",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000250_how_to_sort_step_imgs_0.jpg</img>，(2) <img>results/imgs\\103725697_0000000250_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103725697_0000000250_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000251",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000251_how_to_sort_step_imgs_0.jpg</img>，(2) <img>results/imgs\\103725697_0000000251_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103725697_0000000251_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000252",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000252_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103725697_0000000252_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103725697_0000000252_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：7.最后将米饭中拌入黄豆酱、辣椒油、鸡蛋酱、土豆块、葱花、香菜、花生米翻拌均匀8.取一片白菜叶把拌饭放上包裹起来9.开啃！图 (2)：4.炒鸡蛋酱：鸡蛋四个打散放入锅中炒成鸡蛋花，用底油下两勺六月鲜豆瓣酱小火炒开重放鸡蛋花，加一小勺白糖翻炒均匀盛出5.再将一个土豆去皮切小块蒸熟备用6.蒸土豆的功夫，炸个花生米和辣椒油（辣椒油可以用老干妈辣豆豉代替味道也很好）图 (3)：1.准备刚蒸熟的米饭2.蒸米饭时把大白菜洗净，只留上半截叶子部分，用开水烫下备用3.再准备葱花、香菜碎。"
+            }
+        ]
+    },
+    {
+        "id": "0000000253",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000253_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103725697_0000000253_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103725697_0000000253_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：1.准备刚蒸熟的米饭2.蒸米饭时把大白菜洗净，只留上半截叶子部分，用开水烫下备用3.再准备葱花、香菜碎图 (2)：7.最后将米饭中拌入黄豆酱、辣椒油、鸡蛋酱、土豆块、葱花、香菜、花生米翻拌均匀8.取一片白菜叶把拌饭放上包裹起来9.开啃！图 (3)：4.炒鸡蛋酱：鸡蛋四个打散放入锅中炒成鸡蛋花，用底油下两勺六月鲜豆瓣酱小火炒开重放鸡蛋花，加一小勺白糖翻炒均匀盛出5.再将一个土豆去皮切小块蒸熟备用6.蒸土豆的功夫，炸个花生米和辣椒油（辣椒油可以用老干妈辣豆豉代替味道也很好）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000254",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000254_what_are_step_imgs_doing_1.jpg</img>，(2) <img>results/imgs\\103725697_0000000254_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103725697_0000000254_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：4.炒鸡蛋酱：鸡蛋四个打散放入锅中炒成鸡蛋花，用底油下两勺六月鲜豆瓣酱小火炒开重放鸡蛋花，加一小勺白糖翻炒均匀盛出5.再将一个土豆去皮切小块蒸熟备用6.蒸土豆的功夫，炸个花生米和辣椒油（辣椒油可以用老干妈辣豆豉代替味道也很好）图 (2)：7.最后将米饭中拌入黄豆酱、辣椒油、鸡蛋酱、土豆块、葱花、香菜、花生米翻拌均匀8.取一片白菜叶把拌饭放上包裹起来9.开啃！图 (3)：1.准备刚蒸熟的米饭2.蒸米饭时把大白菜洗净，只留上半截叶子部分，用开水烫下备用3.再准备葱花、香菜碎。"
+            }
+        ]
+    },
+    {
+        "id": "0000000255",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000255_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103725697_0000000255_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103725697_0000000255_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：1.准备刚蒸熟的米饭2.蒸米饭时把大白菜洗净，只留上半截叶子部分，用开水烫下备用3.再准备葱花、香菜碎图 (2)：7.最后将米饭中拌入黄豆酱、辣椒油、鸡蛋酱、土豆块、葱花、香菜、花生米翻拌均匀8.取一片白菜叶把拌饭放上包裹起来9.开啃！图 (3)：4.炒鸡蛋酱：鸡蛋四个打散放入锅中炒成鸡蛋花，用底油下两勺六月鲜豆瓣酱小火炒开重放鸡蛋花，加一小勺白糖翻炒均匀盛出5.再将一个土豆去皮切小块蒸熟备用6.蒸土豆的功夫，炸个花生米和辣椒油（辣椒油可以用老干妈辣豆豉代替味道也很好）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000256",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103725697_0000000256_what_are_step_imgs_doing_1.jpg</img>，(2) <img>results/imgs\\103725697_0000000256_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103725697_0000000256_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：4.炒鸡蛋酱：鸡蛋四个打散放入锅中炒成鸡蛋花，用底油下两勺六月鲜豆瓣酱小火炒开重放鸡蛋花，加一小勺白糖翻炒均匀盛出5.再将一个土豆去皮切小块蒸熟备用6.蒸土豆的功夫，炸个花生米和辣椒油（辣椒油可以用老干妈辣豆豉代替味道也很好）图 (2)：7.最后将米饭中拌入黄豆酱、辣椒油、鸡蛋酱、土豆块、葱花、香菜、花生米翻拌均匀8.取一片白菜叶把拌饭放上包裹起来9.开啃！图 (3)：1.准备刚蒸熟的米饭2.蒸米饭时把大白菜洗净，只留上半截叶子部分，用开水烫下备用3.再准备葱花、香菜碎。"
+            }
+        ]
+    },
+    {
+        "id": "0000000257",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "米饭，香菜，土豆，鸡蛋，豆瓣酱（六月鲜），白糖，黄豆酱（海天），炸花生米，辣椒油/老干妈，葱花"
+            }
+        ]
+    },
+    {
+        "id": "0000000258",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：米饭有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3碗。"
+            }
+        ]
+    },
+    {
+        "id": "0000000259",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：香菜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "一小把。"
+            }
+        ]
+    },
+    {
+        "id": "0000000260",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：土豆有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000261",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：鸡蛋有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3-4个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000262",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：豆瓣酱（六月鲜）有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3汤匙。"
+            }
+        ]
+    },
+    {
+        "id": "0000000263",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：白糖有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "15克。"
+            }
+        ]
+    },
+    {
+        "id": "0000000264",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：黄豆酱（海天）有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "2–3汤匙。"
+            }
+        ]
+    },
+    {
+        "id": "0000000265",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：炸花生米有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "一把。"
+            }
+        ]
+    },
+    {
+        "id": "0000000266",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：辣椒油/老干妈有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1汤匙。"
+            }
+        ]
+    },
+    {
+        "id": "0000000267",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000257_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱花有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "一小撮。"
+            }
+        ]
+    },
+    {
+        "id": "0000000268",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103725697_0000000268_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "东北菜包饭的做法步骤图，东北菜包饭怎么做好吃"
+            }
+        ]
+    },
+    {
+        "id": "0000000269",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103746407_0000000269_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "茄子切成条备用"
+            }
+        ]
+    },
+    {
+        "id": "0000000270",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103746407_0000000270_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "茄子下锅煎制金黄变软即可（这个步骤油要多一些，茄子很吃油，油少了做出来茄子容易苦涩）"
+            }
+        ]
+    },
+    {
+        "id": "0000000271",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103746407_0000000271_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "加入香其酱翻炒均匀，加入适量水（刚刚没过茄子就行），中火炖至汤汁变干就可以出锅啦"
+            }
+        ]
+    },
+    {
+        "id": "0000000272",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103746407_0000000272_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "最后可以根据个人口味撒上一些葱花 或者香菜 青椒末等等。开吃～超下饭的一道菜"
+            }
+        ]
+    },
+    {
+        "id": "0000000273",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000273_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103746407_0000000273_how_to_sort_step_imgs_3.jpg</img>，(3) <img>results/imgs\\103746407_0000000273_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000274",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000274_how_to_sort_step_imgs_2.jpg</img>，(2) <img>results/imgs\\103746407_0000000274_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103746407_0000000274_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000275",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000275_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103746407_0000000275_how_to_sort_step_imgs_3.jpg</img>，(3) <img>results/imgs\\103746407_0000000275_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000276",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000276_how_to_sort_step_imgs_2.jpg</img>，(2) <img>results/imgs\\103746407_0000000276_how_to_sort_step_imgs_0.jpg</img>，(3) <img>results/imgs\\103746407_0000000276_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000277",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000277_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103746407_0000000277_how_to_sort_step_imgs_3.jpg</img>，(3) <img>results/imgs\\103746407_0000000277_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000278",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000278_what_are_step_imgs_doing_1.jpg</img>，(2) <img>results/imgs\\103746407_0000000278_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103746407_0000000278_what_are_step_imgs_doing_3.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：茄子下锅煎制金黄变软即可（这个步骤油要多一些，茄子很吃油，油少了做出来茄子容易苦涩）图 (2)：茄子切成条备用图 (3)：最后可以根据个人口味撒上一些葱花 或者香菜 青椒末等等。开吃～超下饭的一道菜。"
+            }
+        ]
+    },
+    {
+        "id": "0000000279",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000279_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103746407_0000000279_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103746407_0000000279_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：加入香其酱翻炒均匀，加入适量水（刚刚没过茄子就行），中火炖至汤汁变干就可以出锅啦图 (2)：茄子切成条备用图 (3)：茄子下锅煎制金黄变软即可（这个步骤油要多一些，茄子很吃油，油少了做出来茄子容易苦涩）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000280",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000280_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103746407_0000000280_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103746407_0000000280_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：茄子切成条备用图 (2)：加入香其酱翻炒均匀，加入适量水（刚刚没过茄子就行），中火炖至汤汁变干就可以出锅啦图 (3)：茄子下锅煎制金黄变软即可（这个步骤油要多一些，茄子很吃油，油少了做出来茄子容易苦涩）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000281",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000281_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103746407_0000000281_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103746407_0000000281_what_are_step_imgs_doing_2.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：最后可以根据个人口味撒上一些葱花 或者香菜 青椒末等等。开吃～超下饭的一道菜图 (2)：茄子下锅煎制金黄变软即可（这个步骤油要多一些，茄子很吃油，油少了做出来茄子容易苦涩）图 (3)：加入香其酱翻炒均匀，加入适量水（刚刚没过茄子就行），中火炖至汤汁变干就可以出锅啦。"
+            }
+        ]
+    },
+    {
+        "id": "0000000282",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103746407_0000000282_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103746407_0000000282_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103746407_0000000282_what_are_step_imgs_doing_2.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：最后可以根据个人口味撒上一些葱花 或者香菜 青椒末等等。开吃～超下饭的一道菜图 (2)：茄子切成条备用图 (3)：加入香其酱翻炒均匀，加入适量水（刚刚没过茄子就行），中火炖至汤汁变干就可以出锅啦。"
+            }
+        ]
+    },
+    {
+        "id": "0000000283",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103746407_0000000283_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "茄子，黄豆酱/香其酱"
+            }
+        ]
+    },
+    {
+        "id": "0000000284",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103746407_0000000283_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：茄子有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1个。"
+            }
+        ]
+    },
+    {
+        "id": "0000000285",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103746407_0000000283_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：黄豆酱/香其酱有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000286",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103746407_0000000286_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "东北菜之酱扒茄子的做法步骤图，怎么做好吃"
+            }
+        ]
+    },
+    {
+        "id": "0000000287",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000287_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "排骨解冻，在冷水里泡半个小时，去血水，用点儿料酒和姜片，腌好去腥"
+            }
+        ]
+    },
+    {
+        "id": "0000000288",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000288_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "如图准备好"
+            }
+        ]
+    },
+    {
+        "id": "0000000289",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000289_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "排骨冷水下锅，一点料酒几片姜，焯水，去血末，大概三四分钟。用热水冲几遍，让肉紧实，焯水的同时烧一壶开水"
+            }
+        ]
+    },
+    {
+        "id": "0000000290",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000290_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "热锅冷油，爆香葱姜蒜花椒，加入排骨大火煸炒，一两分钟，为了将肉里的脂肪锁住再把肉香逼出来，炒的时候放点酱油，料酒"
+            }
+        ]
+    },
+    {
+        "id": "0000000291",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000291_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "添开水，没过肉，把除了盐剩下所有调料倒进锅里"
+            }
+        ]
+    },
+    {
+        "id": "0000000292",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000292_what_is_step_img_doing_5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "大火煮开，转小火，等到肉可以用筷子扎透，放盐✅"
+            }
+        ]
+    },
+    {
+        "id": "0000000293",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000293_what_is_step_img_doing_6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "欧了"
+            }
+        ]
+    },
+    {
+        "id": "0000000294",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000294_how_to_sort_step_imgs_4.jpg</img>，(2) <img>results/imgs\\103755065_0000000294_how_to_sort_step_imgs_6.jpg</img>，(3) <img>results/imgs\\103755065_0000000294_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000295",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000295_how_to_sort_step_imgs_6.jpg</img>，(2) <img>results/imgs\\103755065_0000000295_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103755065_0000000295_how_to_sort_step_imgs_4.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000296",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000296_how_to_sort_step_imgs_4.jpg</img>，(2) <img>results/imgs\\103755065_0000000296_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103755065_0000000296_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000297",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000297_how_to_sort_step_imgs_4.jpg</img>，(2) <img>results/imgs\\103755065_0000000297_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103755065_0000000297_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(3)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000298",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000298_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103755065_0000000298_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103755065_0000000298_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(2)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000299",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000299_what_are_step_imgs_doing_5.jpg</img>，(2) <img>results/imgs\\103755065_0000000299_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103755065_0000000299_what_are_step_imgs_doing_4.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：大火煮开，转小火，等到肉可以用筷子扎透，放盐✅图 (2)：如图准备好图 (3)：添开水，没过肉，把除了盐剩下所有调料倒进锅里。"
+            }
+        ]
+    },
+    {
+        "id": "0000000300",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000300_what_are_step_imgs_doing_3.jpg</img>，(2) <img>results/imgs\\103755065_0000000300_what_are_step_imgs_doing_6.jpg</img>，(3) <img>results/imgs\\103755065_0000000300_what_are_step_imgs_doing_5.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：热锅冷油，爆香葱姜蒜花椒，加入排骨大火煸炒，一两分钟，为了将肉里的脂肪锁住再把肉香逼出来，炒的时候放点酱油，料酒图 (2)：欧了图 (3)：大火煮开，转小火，等到肉可以用筷子扎透，放盐✅。"
+            }
+        ]
+    },
+    {
+        "id": "0000000301",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000301_what_are_step_imgs_doing_4.jpg</img>，(2) <img>results/imgs\\103755065_0000000301_what_are_step_imgs_doing_3.jpg</img>，(3) <img>results/imgs\\103755065_0000000301_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：添开水，没过肉，把除了盐剩下所有调料倒进锅里图 (2)：热锅冷油，爆香葱姜蒜花椒，加入排骨大火煸炒，一两分钟，为了将肉里的脂肪锁住再把肉香逼出来，炒的时候放点酱油，料酒图 (3)：如图准备好。"
+            }
+        ]
+    },
+    {
+        "id": "0000000302",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000302_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103755065_0000000302_what_are_step_imgs_doing_3.jpg</img>，(3) <img>results/imgs\\103755065_0000000302_what_are_step_imgs_doing_6.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：排骨解冻，在冷水里泡半个小时，去血水，用点儿料酒和姜片，腌好去腥图 (2)：热锅冷油，爆香葱姜蒜花椒，加入排骨大火煸炒，一两分钟，为了将肉里的脂肪锁住再把肉香逼出来，炒的时候放点酱油，料酒图 (3)：欧了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000303",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103755065_0000000303_what_are_step_imgs_doing_1.jpg</img>，(2) <img>results/imgs\\103755065_0000000303_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103755065_0000000303_what_are_step_imgs_doing_6.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：如图准备好图 (2)：排骨解冻，在冷水里泡半个小时，去血水，用点儿料酒和姜片，腌好去腥图 (3)：欧了。"
+            }
+        ]
+    },
+    {
+        "id": "0000000304",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "料酒，盐，葱，蒜，姜，排骨，酱油，冰糖，老抽，米酒，花椒大料"
+            }
+        ]
+    },
+    {
+        "id": "0000000305",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：料酒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "2勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000306",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000307",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "四分之一根。"
+            }
+        ]
+    },
+    {
+        "id": "0000000308",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蒜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "四瓣。"
+            }
+        ]
+    },
+    {
+        "id": "0000000309",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "4片。"
+            }
+        ]
+    },
+    {
+        "id": "0000000310",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：排骨有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "500克。"
+            }
+        ]
+    },
+    {
+        "id": "0000000311",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：酱油有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000312",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：冰糖有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1颗。"
+            }
+        ]
+    },
+    {
+        "id": "0000000313",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：老抽有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "半勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000314",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：米酒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000315",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000304_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：花椒大料有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "4颗。"
+            }
+        ]
+    },
+    {
+        "id": "0000000316",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103755065_0000000316_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "🐷姥姥的味道东北硬菜炖排骨🐷的做法步骤图"
+            }
+        ]
+    },
+    {
+        "id": "0000000317",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000317_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "白菜切丝，新鲜干豆腐不用焯水直接切丝，黄瓜切丝。（白菜可以用甘蓝替代，加入甘蓝不用放芥末，切丝后甘蓝本身会散发出淡淡芥末味）"
+            }
+        ]
+    },
+    {
+        "id": "0000000318",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000318_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "蒜压扁切蒜末，香菜切末。所有食材码入盆中（这里我没加粉皮，应该加上的，东北凉菜标志性大拉皮增加口感，当然粉丝也可以的。）"
+            }
+        ]
+    },
+    {
+        "id": "0000000319",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000319_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "拌料汁：两大勺辣椒油，两勺酱油，一勺芥末，三大勺醋，一勺香油或者用水稀释两勺纯芝麻酱（其实这里一勺是作为一般参考，我都是拿起调料瓶倒，多少差不多就可以。）最后尝尝咸淡，最后用盐调味。完活！花生米在哪里？酒在哪里？喝点吗？微醺胜酒醉，家常胜浮夸。"
+            }
+        ]
+    },
+    {
+        "id": "0000000320",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000320_how_to_sort_step_imgs_0.jpg</img>，(2) <img>results/imgs\\103775895_0000000320_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103775895_0000000320_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(2)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000321",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000321_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103775895_0000000321_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103775895_0000000321_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000322",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000322_how_to_sort_step_imgs_0.jpg</img>，(2) <img>results/imgs\\103775895_0000000322_how_to_sort_step_imgs_2.jpg</img>，(3) <img>results/imgs\\103775895_0000000322_how_to_sort_step_imgs_1.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(1)，(3)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000323",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000323_how_to_sort_step_imgs_2.jpg</img>，(2) <img>results/imgs\\103775895_0000000323_how_to_sort_step_imgs_1.jpg</img>，(3) <img>results/imgs\\103775895_0000000323_how_to_sort_step_imgs_0.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(2)，(1)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000324",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000324_how_to_sort_step_imgs_1.jpg</img>，(2) <img>results/imgs\\103775895_0000000324_how_to_sort_step_imgs_0.jpg</img>，(3) <img>results/imgs\\103775895_0000000324_how_to_sort_step_imgs_2.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(1)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000325",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000325_what_are_step_imgs_doing_1.jpg</img>，(2) <img>results/imgs\\103775895_0000000325_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103775895_0000000325_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：蒜压扁切蒜末，香菜切末。所有食材码入盆中（这里我没加粉皮，应该加上的，东北凉菜标志性大拉皮增加口感，当然粉丝也可以的。）图 (2)：拌料汁：两大勺辣椒油，两勺酱油，一勺芥末，三大勺醋，一勺香油或者用水稀释两勺纯芝麻酱（其实这里一勺是作为一般参考，我都是拿起调料瓶倒，多少差不多就可以。）最后尝尝咸淡，最后用盐调味。完活！花生米在哪里？酒在哪里？喝点吗？微醺胜酒醉，家常胜浮夸。图 (3)：白菜切丝，新鲜干豆腐不用焯水直接切丝，黄瓜切丝。（白菜可以用甘蓝替代，加入甘蓝不用放芥末，切丝后甘蓝本身会散发出淡淡芥末味）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000326",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000326_what_are_step_imgs_doing_1.jpg</img>，(2) <img>results/imgs\\103775895_0000000326_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103775895_0000000326_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：蒜压扁切蒜末，香菜切末。所有食材码入盆中（这里我没加粉皮，应该加上的，东北凉菜标志性大拉皮增加口感，当然粉丝也可以的。）图 (2)：拌料汁：两大勺辣椒油，两勺酱油，一勺芥末，三大勺醋，一勺香油或者用水稀释两勺纯芝麻酱（其实这里一勺是作为一般参考，我都是拿起调料瓶倒，多少差不多就可以。）最后尝尝咸淡，最后用盐调味。完活！花生米在哪里？酒在哪里？喝点吗？微醺胜酒醉，家常胜浮夸。图 (3)：白菜切丝，新鲜干豆腐不用焯水直接切丝，黄瓜切丝。（白菜可以用甘蓝替代，加入甘蓝不用放芥末，切丝后甘蓝本身会散发出淡淡芥末味）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000327",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000327_what_are_step_imgs_doing_0.jpg</img>，(2) <img>results/imgs\\103775895_0000000327_what_are_step_imgs_doing_2.jpg</img>，(3) <img>results/imgs\\103775895_0000000327_what_are_step_imgs_doing_1.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：白菜切丝，新鲜干豆腐不用焯水直接切丝，黄瓜切丝。（白菜可以用甘蓝替代，加入甘蓝不用放芥末，切丝后甘蓝本身会散发出淡淡芥末味）图 (2)：拌料汁：两大勺辣椒油，两勺酱油，一勺芥末，三大勺醋，一勺香油或者用水稀释两勺纯芝麻酱（其实这里一勺是作为一般参考，我都是拿起调料瓶倒，多少差不多就可以。）最后尝尝咸淡，最后用盐调味。完活！花生米在哪里？酒在哪里？喝点吗？微醺胜酒醉，家常胜浮夸。图 (3)：蒜压扁切蒜末，香菜切末。所有食材码入盆中（这里我没加粉皮，应该加上的，东北凉菜标志性大拉皮增加口感，当然粉丝也可以的。）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000328",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000328_what_are_step_imgs_doing_2.jpg</img>，(2) <img>results/imgs\\103775895_0000000328_what_are_step_imgs_doing_1.jpg</img>，(3) <img>results/imgs\\103775895_0000000328_what_are_step_imgs_doing_0.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：拌料汁：两大勺辣椒油，两勺酱油，一勺芥末，三大勺醋，一勺香油或者用水稀释两勺纯芝麻酱（其实这里一勺是作为一般参考，我都是拿起调料瓶倒，多少差不多就可以。）最后尝尝咸淡，最后用盐调味。完活！花生米在哪里？酒在哪里？喝点吗？微醺胜酒醉，家常胜浮夸。图 (2)：蒜压扁切蒜末，香菜切末。所有食材码入盆中（这里我没加粉皮，应该加上的，东北凉菜标志性大拉皮增加口感，当然粉丝也可以的。）图 (3)：白菜切丝，新鲜干豆腐不用焯水直接切丝，黄瓜切丝。（白菜可以用甘蓝替代，加入甘蓝不用放芥末，切丝后甘蓝本身会散发出淡淡芥末味）。"
+            }
+        ]
+    },
+    {
+        "id": "0000000329",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>results/imgs\\103775895_0000000329_what_are_step_imgs_doing_1.jpg</img>，(2) <img>results/imgs\\103775895_0000000329_what_are_step_imgs_doing_0.jpg</img>，(3) <img>results/imgs\\103775895_0000000329_what_are_step_imgs_doing_2.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：蒜压扁切蒜末，香菜切末。所有食材码入盆中（这里我没加粉皮，应该加上的，东北凉菜标志性大拉皮增加口感，当然粉丝也可以的。）图 (2)：白菜切丝，新鲜干豆腐不用焯水直接切丝，黄瓜切丝。（白菜可以用甘蓝替代，加入甘蓝不用放芥末，切丝后甘蓝本身会散发出淡淡芥末味）图 (3)：拌料汁：两大勺辣椒油，两勺酱油，一勺芥末，三大勺醋，一勺香油或者用水稀释两勺纯芝麻酱（其实这里一勺是作为一般参考，我都是拿起调料瓶倒，多少差不多就可以。）最后尝尝咸淡，最后用盐调味。完活！花生米在哪里？酒在哪里？喝点吗？微醺胜酒醉，家常胜浮夸。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000330",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "黄瓜，干豆腐，白菜，粉皮，香菜，蒜，辣椒油，酱油，醋，芥末（油），香油1勺，盐"
+            }
+        ]
+    },
+    {
+        "id": "0000000331",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：黄瓜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "2根。"
+            }
+        ]
+    },
+    {
+        "id": "0000000332",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：干豆腐有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3张。"
+            }
+        ]
+    },
+    {
+        "id": "0000000333",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：白菜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "5片。"
+            }
+        ]
+    },
+    {
+        "id": "0000000334",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：粉皮有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1张。"
+            }
+        ]
+    },
+    {
+        "id": "0000000335",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：香菜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1把。"
+            }
+        ]
+    },
+    {
+        "id": "0000000336",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蒜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "5瓣。"
+            }
+        ]
+    },
+    {
+        "id": "0000000337",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：辣椒油有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "2勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000338",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：酱油有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "2勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000339",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：醋有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "3勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000340",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：芥末（油）有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1茶勺。"
+            }
+        ]
+    },
+    {
+        "id": "0000000341",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：香油1勺有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "。"
+            }
+        ]
+    },
+    {
+        "id": "0000000342",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000330_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000343",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>results/imgs\\103775895_0000000343_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "东北盆拌家常凉菜（快速极简素食）的做法步骤图"
             }
         ]
     }
