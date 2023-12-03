@@ -1,7 +1,7 @@
 import os
 from typing import List, Any, Dict
 
-from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, GPT, remove_non_chinese_digits
+from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, GPT, remove_non_chinese_digits, log_failed_img
 from configs import IMG_SAVE_PATH, RAW_PROMPT
 import re
 
@@ -17,7 +17,8 @@ def generated_by_GPT(data: Dict[str, Any], **kwargs) -> List[Any]:
         img_file
         ):
         LOGGER.debug(f"img download failed, url: [{data['img']}]")
-        return results
+        log_failed_img(str(ID_COUNTER), data['img'], img_file)
+        # return results
 
     keys = data.keys()
     prompt = ''

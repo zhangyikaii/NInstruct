@@ -2,7 +2,7 @@ import os
 from typing import List, Any, Dict
 import random
 
-from utils import download_img, make_data_dict, ID_COUNTER, LOGGER
+from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, log_failed_img
 from configs import IMG_SAVE_PATH
 
 def what_are_step_imgs_doing(
@@ -29,7 +29,8 @@ def what_are_step_imgs_doing(
                 img_file
                 ):
                 LOGGER.debug(f"img download failed, url: [{cur_step['img']}]")
-                continue
+                log_failed_img(str(ID_COUNTER), cur_step['img'], img_file)
+                # continue
 
             img_file_list.append(img_file)
         if len(img_file_list) != len(cur_sampled):

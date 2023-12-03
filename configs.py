@@ -8,12 +8,13 @@ DATA_PATHS = {
     'xinshipu': f'data/xinshipu'
 }
 
-IMG_SAVE_PATH = 'results/imgs'
+JSON_SAVE_PATH = 'vllmnd'
+IMG_SAVE_PATH = 'vllmnd/imgs'
+IMG_DOWNLOAD_FAILED_LOGS = 'vllmnd/img_download_failed.csv'
 Path(IMG_SAVE_PATH).mkdir(parents=True, exist_ok=True)
 
-JSON_SAVE_PATH = 'results'
 
-OPEN_AI_KEY = 'sk-'
+OPEN_AI_KEY = 'sk-' # NOTE: DO NOT UPLOAD
 
 RAW_PROMPT = '''{请基于数据描述和一些示例任务，设计更多任务，并以一个字典返回，包括指令、输入和输出字段，其中示例数据描述和示例任务都是例子。
 示例数据描述：

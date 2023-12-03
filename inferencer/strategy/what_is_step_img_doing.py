@@ -1,7 +1,7 @@
 import os
 from typing import List, Any, Dict
 
-from utils import download_img, make_data_dict, ID_COUNTER, LOGGER
+from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, log_failed_img
 from configs import IMG_SAVE_PATH
 
 def what_is_step_img_doing(data: Dict[str, Any], **kwargs) -> List[Any]:
@@ -17,7 +17,8 @@ def what_is_step_img_doing(data: Dict[str, Any], **kwargs) -> List[Any]:
             img_file
             ):
             LOGGER.debug(f"img download failed, url: [{cur_step['img']}]")
-            continue
+            log_failed_img(str(ID_COUNTER), cur_step['img'], img_file)
+            # continue
 
         results.append(
             make_data_dict(

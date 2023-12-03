@@ -1,7 +1,7 @@
 import os
 from typing import List, Any, Dict
 
-from utils import download_img, make_data_dict, ID_COUNTER, LOGGER
+from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, log_failed_img
 from configs import IMG_SAVE_PATH
 
 def what_are_components_nested(
@@ -19,7 +19,8 @@ def what_are_components_nested(
         img_file
         ):
         LOGGER.debug(f"img download failed, url: [{data['img']}]")
-        return results
+        log_failed_img(str(ID_COUNTER), data['img'], img_file)
+        # return results
 
     for first_component in data['components_nested'].keys():
         if first_component in what_are_components_nested_skipped_keys:

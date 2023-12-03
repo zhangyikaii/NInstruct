@@ -12,6 +12,13 @@ class DaydaycookInferencer(BaseInferencer):
         super().__init__(types=types)
         ...
 
+    def zhconv_dict(self, orignal_dict: Dict[str, str]) -> dict:
+        zhconv_dict = {}
+        for k, v in orignal_dict.items():
+            zhconv_dict[zhconv.convert(k, 'zh-cn')] = zhconv.convert(v, 'zh-cn')
+            # text = text.replace(k, v)
+        return zhconv_dict
+
     def decomp_components(self, components) -> Dict[str, Any]:
         components_nested = {}
         components_flat = {}
@@ -21,12 +28,12 @@ class DaydaycookInferencer(BaseInferencer):
                     d = {}
                     for j in v:
                         assert isinstance(j, dict)
-                        d.update(j)
-                    components_nested[k] = d
+                        d.update(self.zhconv_dict(j))
+                    components_nested[zhconv.convert(k, 'zh-cn')] = d
             elif type(i) == str:
                 pos = i.find(':') 
                 if pos != -1:
-                    components_flat[i[:pos].strip()] = i[pos+1:].strip()
+                    components_flat[zhconv.convert(i[:pos].strip(), 'zh-cn')] = i[pos+1:].strip()
             else:
                 raise ValueError(f"Unknown type of component: {type(i)}")             
         return components_nested, components_flat
@@ -93,6 +100,11 @@ class DaydaycookInferencer(BaseInferencer):
             cur_data['components_flat'][key] = self.preprocess(cur_data['components_flat'][key])
         for i in range(len(cur_data['steps'])):
             cur_data['steps'][i]['description'] = self.preprocess(cur_data['steps'][i]['description'])
+<<<<<<< Updated upstream
+=======
+        for i in range(len(cur_data['comments'])):
+            cur_data['comments'][i] = [self.preprocess(cur_data['comments'][i][j]) for j in range(len(cur_data['comments'][i]))]
+>>>>>>> Stashed changes
         # print(cur_data)
         return cur_data
 
