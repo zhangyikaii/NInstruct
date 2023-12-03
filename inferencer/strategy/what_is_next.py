@@ -29,7 +29,7 @@ def what_is_next(data: Dict[str, Any], **kwargs) -> List[Any]:
                     ]
                 )
             )
-git co
+
         else:
             results.append(
                 make_data_dict(
