@@ -13,7 +13,7 @@ Path(IMG_SAVE_PATH).mkdir(parents=True, exist_ok=True)
 
 JSON_SAVE_PATH = 'results'
 
-OPEN_AI_KEY = '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'
+OPEN_AI_KEY = 'sk-'
 
 RAW_PROMPT = '''{请基于数据描述和一些示例任务，设计更多任务，并以一个字典返回，包括指令、输入和输出字段，其中示例数据描述和示例任务都是例子。
 示例数据描述：
