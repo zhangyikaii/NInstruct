@@ -13,8 +13,9 @@ client = OpenAI()
 prompt0 = "请基于数据描述和一些示例任务，设计更多任务，并以一个字典返回，包括指令、输入和输出字段。数据描述：菜名：DIY腌糖蒜，描述：腌好的糖蒜鲜而不辣，酸甜可口，最重要的一点是用这种方法腌的糖蒜吃过后嘴里不会有蒜味！去除了你吃蒜后怕口中有大蒜味的后顾之忧。主要步骤：(1) 准备好新鲜的大蒜。(2) 将鲜蒜去须茎，剥去外皮，放在清水中泡3天（每天换2到3次水，以去掉蒜的异味）。主要材料：主料新鲜大蒜200g、醋500ml，辅料水200ml。注意事项：注意要及时端离火口，静置放凉。示例任务：{'指令': '请回答菜品的主要原材料', '输入': '腌糖蒜', '输出': '主料新鲜大蒜200g、醋500ml，辅料水200ml。'}{'指令': '请回答制作菜品时的注意事项', '输入': '腌制糖蒜'， '输出': '注意要及时端离火口，静置放凉。'}"
 # response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": prompt}])
 # response = response["choices"][0]["message"]["content"]
-
-
+tr = "{'指令': '请回答菜品的主要原材料', '输入': '腌糖蒜', '输出': '主料新鲜大蒜200g、醋500ml，辅料水200ml。'}{'指令': '请回答制作菜品时的注意事项', '输入': '腌制糖蒜'， '输出': '注意要及时端离火口，静置放凉。'}"
+tr = json.load(tr)
+print(tr['指令'])
 def gpt_generation(
     data: Dict[str, Any],
     **kwargs) -> List[Any]:
@@ -34,8 +35,7 @@ def gpt_generation(
         make_data_dict(
             cur_id=str(ID_COUNTER),
             cur_conversations=[
-               response['指令'],
-               response['输入'],
+               response['指令']+response['输入'],
                response['输出']
             ]
         )
