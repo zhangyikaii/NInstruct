@@ -100,11 +100,8 @@ class DaydaycookInferencer(BaseInferencer):
             cur_data['components_flat'][key] = self.preprocess(cur_data['components_flat'][key])
         for i in range(len(cur_data['steps'])):
             cur_data['steps'][i]['description'] = self.preprocess(cur_data['steps'][i]['description'])
-<<<<<<< Updated upstream
-=======
         for i in range(len(cur_data['comments'])):
             cur_data['comments'][i] = [self.preprocess(cur_data['comments'][i][j]) for j in range(len(cur_data['comments'][i]))]
->>>>>>> Stashed changes
         # print(cur_data)
         return cur_data
 
