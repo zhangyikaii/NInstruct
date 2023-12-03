@@ -24,18 +24,18 @@ def what_is_next(data: Dict[str, Any], **kwargs) -> List[Any]:
                 make_data_dict(
                     cur_id=str(ID_COUNTER),
                     cur_conversations=[
-                        f"，接下来做什么？",
+                        f"图：<img>{img_file}</img>，接下来做什么？",
                         f"已经完成了"
                     ]
                 )
             )
-
+git co
         else:
             results.append(
                 make_data_dict(
                     cur_id=str(ID_COUNTER),
                     cur_conversations=[
-                        f"，接下来做什么？",
+                        f"图：<img>{img_file}</img>，接下来做什么？",
                         f"接下来应该" + ''.join(f"{data['steps'][i]['description']}"[1:] for i in
                                                 range(idx+1, len(data['steps'])))
                     ]

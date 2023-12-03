@@ -1,2 +1,2 @@
 source activate zykycy
-python main.py --exp meishichina --infer what_is_next --fit-kwargs "{'how_to_sort_num_iters': 5, 'what_are_step_num_iters': 5, 'what_are_components_nested_skipped_keys': ['方法']}"
+python main.py --exp meishichina --infer what_is_next --fit-kwargs "{'what_is_next': 5}"
