@@ -3,6 +3,7 @@ from typing import Dict, Any, List
 from utils import load_pickle, preprocess_text
 from inferencer import BaseInferencer
 import re
+import zhconv
 
 class DaydaycookInferencer(BaseInferencer):
     def __init__(self,
@@ -47,6 +48,10 @@ class DaydaycookInferencer(BaseInferencer):
             img_type = [title_img_type, 'normal']
         return img, img_type
     
+    def preprocess(self, text: str = ''):
+        text = preprocess_text(text)
+        text = zhconv.convert(text, 'zh-cn')
+        return text
 
     def load(self,
              file_name: str,
@@ -79,15 +84,15 @@ class DaydaycookInferencer(BaseInferencer):
         assert all(isinstance(i, dict) and 'description' in i and 'img' in i for i in cur_data['steps'])
 
         # 文本预处理
-        cur_data['title'] = preprocess_text(cur_data['title'])
-        cur_data['description'] = preprocess_text(cur_data['description'])
+        cur_data['title'] = self.preprocess(cur_data['title'])
+        cur_data['description'] = self.preprocess(cur_data['description'])
         for key1, inner_dict in cur_data['components_nested'].items():
             for key2, value in inner_dict.items():
-                cur_data['components_nested'][key1][key2] = preprocess_text(value)
+                cur_data['components_nested'][key1][key2] = self.preprocess(value)
         for key in cur_data['components_flat'].keys():
-            cur_data['components_flat'][key] = preprocess_text(cur_data['components_flat'][key])
+            cur_data['components_flat'][key] = self.preprocess(cur_data['components_flat'][key])
         for i in range(len(cur_data['steps'])):
-            cur_data['steps'][i]['description'] = preprocess_text(cur_data['steps'][i]['description'])
+            cur_data['steps'][i]['description'] = self.preprocess(cur_data['steps'][i]['description'])
         # print(cur_data)
         return cur_data
 
