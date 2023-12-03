@@ -1,7 +1,7 @@
 import os
 from typing import List, Any, Dict
 
-from utils import download_img, make_data_dict, ID_COUNTER, LOGGER
+from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, log_failed_img
 from configs import IMG_SAVE_PATH
 
 def what_is_dish(data: Dict[str, Any], **kwargs) -> List[Any]:
@@ -16,7 +16,8 @@ def what_is_dish(data: Dict[str, Any], **kwargs) -> List[Any]:
         img_file
         ):
         LOGGER.debug(f"img download failed, url: [{data['img']}]")
-        return results
+        log_failed_img(str(ID_COUNTER), data['img'], img_file)
+        # return results
 
     results.append(
         make_data_dict(

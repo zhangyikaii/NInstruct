@@ -4,11 +4,12 @@ import pickle
 import json
 import importlib
 import ast
-from configs import JSON_SAVE_PATH
-
+import time
 import argparse
 from argparse import ArgumentParser
+import openai
 
+from configs import JSON_SAVE_PATH, OPEN_AI_KEY, IMG_DOWNLOAD_FAILED_LOGS
 
 class Counter:
     def __init__(self):
@@ -19,6 +20,16 @@ class Counter:
 
     def __str__(self):
         return f'{self.count:010d}'
+
+class GPT:
+    def __init__(self):
+        self.client = openai.OpenAI(api_key=OPEN_AI_KEY)
+
+    def answer(self, question):
+        completion = self.client.chat.completions.create(model="gpt-3.5-turbo", messages=[{"role": "user", "content": question}])
+
+        return completion.choices[0].message.content
+
 
 ID_COUNTER = Counter()
 
@@ -50,21 +61,35 @@ def preprocess_text(text: str = ''):
     text = text.strip()
     return text
 
+def remove_non_chinese_digits(text):
+    # 使用正则表达式匹配非数字和非中文字符并替换为空格
+    cleaned_text = re.sub(r'[^\u4e00-\u9fff0-9]', '', text)
+    return cleaned_text
+
 def download_img(url: str, dest_file: str):
-    return True
-    import wget
     if not os.path.isfile(dest_file):
-        download_try = 10
-        while download_try > 0:
+        max_attempts = 10
+        time_limit = 180 # in 3min
+        start_time = time.time()
+
+        for attempt in range(1, max_attempts + 1):
             try:
                 wget.download(url, dest_file)
-                download_try = -9
-            except:
-                download_try -= 1
+                return True
+            except Exception as e:
+                LOGGER.debug(f"Attempt {attempt} failed: {e}")
+                if time.time() - start_time >= time_limit:
+                    LOGGER.debug("Download timed out.")
+                    break
                 continue
-        if download_try == 0:
-            return False
+
+        LOGGER.debug("Download failed after multiple attempts.")
+        return False
     return True
+
+def log_failed_img(data_id: str, url: str, dest_file: str):
+    with open(IMG_DOWNLOAD_FAILED_LOGS, 'a') as f:
+        f.write(f'{data_id},{url},{dest_file}\n')
 
 def get_class_from_module(module_name, class_name):
     try:

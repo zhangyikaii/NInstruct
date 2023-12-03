@@ -71,6 +71,11 @@ class XiachufangInferencer(BaseInferencer):
                 if s is None:
                     cur_data1['components_nested'][k][l] = ''
 
+        for k, v in cur_data1['components_nested'].copy().items():
+            for l, s in v.copy().items():
+                if s == '':
+                    del cur_data1['components_nested'][k][l]
+
         cur_data1['components_flat'] = {}
 
         try:

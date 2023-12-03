@@ -3,6 +3,7 @@ from typing import Dict, Any, List
 from utils import load_pickle, preprocess_text
 from inferencer import BaseInferencer
 import re
+import zhconv
 
 class DaydaycookInferencer(BaseInferencer):
     def __init__(self,
@@ -10,6 +11,13 @@ class DaydaycookInferencer(BaseInferencer):
                  **kwargs) -> None:
         super().__init__(types=types)
         ...
+
+    def zhconv_dict(self, orignal_dict: Dict[str, str]) -> dict:
+        zhconv_dict = {}
+        for k, v in orignal_dict.items():
+            zhconv_dict[zhconv.convert(k, 'zh-cn')] = zhconv.convert(v, 'zh-cn')
+            # text = text.replace(k, v)
+        return zhconv_dict
 
     def decomp_components(self, components) -> Dict[str, Any]:
         components_nested = {}
@@ -20,12 +28,12 @@ class DaydaycookInferencer(BaseInferencer):
                     d = {}
                     for j in v:
                         assert isinstance(j, dict)
-                        d.update(j)
-                    components_nested[k] = d
+                        d.update(self.zhconv_dict(j))
+                    components_nested[zhconv.convert(k, 'zh-cn')] = d
             elif type(i) == str:
                 pos = i.find(':') 
                 if pos != -1:
-                    components_flat[i[:pos].strip()] = i[pos+1:].strip()
+                    components_flat[zhconv.convert(i[:pos].strip(), 'zh-cn')] = i[pos+1:].strip()
             else:
                 raise ValueError(f"Unknown type of component: {type(i)}")             
         return components_nested, components_flat
@@ -47,6 +55,10 @@ class DaydaycookInferencer(BaseInferencer):
             img_type = [title_img_type, 'normal']
         return img, img_type
     
+    def preprocess(self, text: str = ''):
+        text = preprocess_text(text)
+        text = zhconv.convert(text, 'zh-cn')
+        return text
 
     def load(self,
              file_name: str,
@@ -79,15 +91,17 @@ class DaydaycookInferencer(BaseInferencer):
         assert all(isinstance(i, dict) and 'description' in i and 'img' in i for i in cur_data['steps'])
 
         # 文本预处理
-        cur_data['title'] = preprocess_text(cur_data['title'])
-        cur_data['description'] = preprocess_text(cur_data['description'])
+        cur_data['title'] = self.preprocess(cur_data['title'])
+        cur_data['description'] = self.preprocess(cur_data['description'])
         for key1, inner_dict in cur_data['components_nested'].items():
             for key2, value in inner_dict.items():
-                cur_data['components_nested'][key1][key2] = preprocess_text(value)
+                cur_data['components_nested'][key1][key2] = self.preprocess(value)
         for key in cur_data['components_flat'].keys():
-            cur_data['components_flat'][key] = preprocess_text(cur_data['components_flat'][key])
+            cur_data['components_flat'][key] = self.preprocess(cur_data['components_flat'][key])
         for i in range(len(cur_data['steps'])):
-            cur_data['steps'][i]['description'] = preprocess_text(cur_data['steps'][i]['description'])
+            cur_data['steps'][i]['description'] = self.preprocess(cur_data['steps'][i]['description'])
+        for i in range(len(cur_data['comments'])):
+            cur_data['comments'][i] = [self.preprocess(cur_data['comments'][i][j]) for j in range(len(cur_data['comments'][i]))]
         # print(cur_data)
         return cur_data
 
