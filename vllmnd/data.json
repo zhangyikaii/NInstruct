@@ -1,0 +1,522 @@
+[
+    {
+        "id": "0000000000",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>vllmnd/imgs/6_0000000000_how_to_sort_step_imgs_2.jpg</img>，(2) <img>vllmnd/imgs/6_0000000000_how_to_sort_step_imgs_0.jpg</img>，(3) <img>vllmnd/imgs/6_0000000000_how_to_sort_step_imgs_7.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(2)，(1)，(3)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000001",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>vllmnd/imgs/6_0000000001_how_to_sort_step_imgs_4.jpg</img>，(2) <img>vllmnd/imgs/6_0000000001_how_to_sort_step_imgs_7.jpg</img>，(3) <img>vllmnd/imgs/6_0000000001_how_to_sort_step_imgs_3.jpg</img>，请理解图片中的制作步骤，并按顺序排序："
+            },
+            {
+                "from": "assistant",
+                "value": "按照步骤排序如下：(3)，(1)，(2)。"
+            }
+        ]
+    },
+    {
+        "id": "0000000002",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的茄子怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "1根。"
+            }
+        ]
+    },
+    {
+        "id": "0000000003",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的油怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000004",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的盐怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000005",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的蒜怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000006",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的葱怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000007",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的姜怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000008",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的酱油怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000009",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的陈醋怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000010",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的料酒怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000011",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的糖怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000012",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000002_what_are_components_flat.jpg</img>，图中这道菜的水淀粉怎么样？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000013",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料有哪些？"
+            },
+            {
+                "from": "assistant",
+                "value": "茄子，油，盐，蒜，葱，姜，酱油，陈醋，料酒，糖，水淀粉"
+            }
+        ]
+    },
+    {
+        "id": "0000000014",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：茄子有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "1根。"
+            }
+        ]
+    },
+    {
+        "id": "0000000015",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：油有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000016",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：盐有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000017",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：蒜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000018",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：葱有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000019",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：姜有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000020",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：酱油有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000021",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：陈醋有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000022",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：料酒有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000023",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：糖有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000024",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000013_what_are_components_nested.jpg</img>，图中这道菜所需要的材料：水淀粉有多少？"
+            },
+            {
+                "from": "assistant",
+                "value": "适量。"
+            }
+        ]
+    },
+    {
+        "id": "0000000025",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>vllmnd/imgs/6_0000000025_what_are_step_imgs_doing_1.jpg</img>，(2) <img>vllmnd/imgs/6_0000000025_what_are_step_imgs_doing_8.jpg</img>，(3) <img>vllmnd/imgs/6_0000000025_what_are_step_imgs_doing_6.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：2.一勺生抽，一勺陈醋、一勺料酒、半勺糖，适量盐调成碗汁备用。图 (2)：9.将炸茄子的油全部倒出，只留一点点油，放葱姜蒜炒香。图 (3)：7.炸至茄子略软捞出。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000026",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "(1) <img>vllmnd/imgs/6_0000000026_what_are_step_imgs_doing_2.jpg</img>，(2) <img>vllmnd/imgs/6_0000000026_what_are_step_imgs_doing_9.jpg</img>，(3) <img>vllmnd/imgs/6_0000000026_what_are_step_imgs_doing_5.jpg</img>，这些图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "图 (1)：3.茄子切成滚分块。图 (2)：10.加入调好的碗汁大火烧开。图 (3)：6.锅中油烧热，加入茄子炸。。"
+            }
+        ]
+    },
+    {
+        "id": "0000000027",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000027_what_is_dish.jpg</img>，图中这道菜叫什么名字？"
+            },
+            {
+                "from": "assistant",
+                "value": "红烧茄子"
+            }
+        ]
+    },
+    {
+        "id": "0000000028",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000028_what_is_step_img_doing_0.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "1.准备食材。"
+            }
+        ]
+    },
+    {
+        "id": "0000000029",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000029_what_is_step_img_doing_1.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "2.一勺生抽，一勺陈醋、一勺料酒、半勺糖，适量盐调成碗汁备用。"
+            }
+        ]
+    },
+    {
+        "id": "0000000030",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000030_what_is_step_img_doing_2.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "3.茄子切成滚分块。"
+            }
+        ]
+    },
+    {
+        "id": "0000000031",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000031_what_is_step_img_doing_3.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "4.加入放了淡盐水的盆中浸泡约二十分钟。"
+            }
+        ]
+    },
+    {
+        "id": "0000000032",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000032_what_is_step_img_doing_4.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "5.将泡好的茄子捞出沥水用厨房纸吸净表层水份。"
+            }
+        ]
+    },
+    {
+        "id": "0000000033",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000033_what_is_step_img_doing_5.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "6.锅中油烧热，加入茄子炸。"
+            }
+        ]
+    },
+    {
+        "id": "0000000034",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000034_what_is_step_img_doing_6.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "7.炸至茄子略软捞出。"
+            }
+        ]
+    },
+    {
+        "id": "0000000035",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000035_what_is_step_img_doing_7.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "8.将锅中的油再次烧热后，将茄子入油锅复炸一次。"
+            }
+        ]
+    },
+    {
+        "id": "0000000036",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000036_what_is_step_img_doing_8.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "9.将炸茄子的油全部倒出，只留一点点油，放葱姜蒜炒香。"
+            }
+        ]
+    },
+    {
+        "id": "0000000037",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000037_what_is_step_img_doing_9.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "10.加入调好的碗汁大火烧开。"
+            }
+        ]
+    },
+    {
+        "id": "0000000038",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000038_what_is_step_img_doing_10.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "11.将炸好的茄子放入汤汁中快速翻炒。"
+            }
+        ]
+    },
+    {
+        "id": "0000000039",
+        "conversations": [
+            {
+                "from": "user",
+                "value": "图：<img>vllmnd/imgs/6_0000000039_what_is_step_img_doing_11.jpg</img>，图中在做什么？"
+            },
+            {
+                "from": "assistant",
+                "value": "12.炒至汤汁略尽，到自已喜欢的程度，加入水淀粉收汁关火即可。"
+            }
+        ]
+    }
+]
