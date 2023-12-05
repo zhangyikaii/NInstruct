@@ -1,5 +1,5 @@
 from inferencer.base import BaseInferencer
-from inferencer.meichichina import MeishiChinaInferencer
+from inferencer.meishichina import MeishiChinaInferencer
 from inferencer.daydaycook import DaydaycookInferencer
 from inferencer.douguo import DouGuoInferencer
 from inferencer.xiachufang import XiachufangInferencer

@@ -11,7 +11,6 @@ def what_is_next_step_with_img(
     results = []
     if len(data['steps']) == 0:
         return results
-    
 
     for i in range(len(data['steps'])-1):
         cur_step = data['steps'][i]

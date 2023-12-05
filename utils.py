@@ -7,6 +7,7 @@ import ast
 import time
 import argparse
 from argparse import ArgumentParser
+from typing import List, Any, Dict
 import openai
 
 from configs import JSON_SAVE_PATH, OPEN_AI_KEY, IMG_DOWNLOAD_FAILED_LOGS
@@ -59,6 +60,11 @@ def preprocess_text(text: str = ''):
     text = re.sub(r'\[(\w+)R\]', r'[\1]', text) # [赞R] 替换为 [赞]
     text = re.sub(r'@\S+\s*', '', text) # 删除 @ 之后的信息
     text = text.strip()
+    return text
+
+def preprocess_strip_begin_numbers(text: str = ''):
+    assert isinstance(text, str)
+    text = re.sub(r'^\d+\s*', '', text) # 去除开头的数字
     return text
 
 def remove_non_chinese_digits(text):
@@ -148,3 +154,36 @@ import pprint
 _utils_pp = pprint.PrettyPrinter()
 def pprint(x):
     _utils_pp.pprint(x)
+
+class DataProcessHandle:
+    def __init__(self, data: Dict[str, Any]) -> None:
+        self.data = data
+
+    def update(self, data: Dict[str, Any]) -> None:
+        self.data = data
+
+    def __str__(self):
+        cur_str = ''
+        prompt = ''
+        if 'title' in self.data.keys() and self.data['title']:
+            prompt += f'标题：{self.data["title"]}\n'
+        if 'description' in self.data.keys() and self.data['description']:
+            prompt += f'描述：{self.data["title"]}\n'
+        if 'components_flat' in self.data.keys() and self.data['components_flat']:
+            prompt += '，'.join([k + v for k, v in self.data['components_flat'].items()]) + '\n'
+        if 'components_nested' in self.data.keys() and self.data['components_nested']:
+            for idx, (k, v) in enumerate(self.data['components_nested'].items()):
+                if idx > 0:
+                    prompt += '，'
+                prompt += k + ' '
+                for idx, (l, s) in enumerate(v.items()):
+                    if idx > 0:
+                        prompt += '，'
+                    prompt += l + s
+            prompt += '。\n'
+        if 'tips' in self.data.keys() and self.data['tips']:
+            prompt += f'技巧：{self.data["title"]}\n'
+        if 'steps' in self.data.keys() and self.data['steps']:
+            prompt += '步骤：' + '，'.join([f"({cur_idx + 1}) {cur_step['description']}" for cur_idx, cur_step in enumerate(self.data['steps'])])
+
+        return prompt

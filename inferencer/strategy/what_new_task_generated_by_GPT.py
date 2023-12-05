@@ -1,16 +1,16 @@
 import os
 from typing import List, Any, Dict
 
-from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, GPT, remove_non_chinese_digits, log_failed_img
+from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, GPT, remove_non_chinese_digits, log_failed_img, DataProcessHandle
 from configs import IMG_SAVE_PATH, RAW_PROMPT
 import re
 
-def generated_by_GPT(data: Dict[str, Any], **kwargs) -> List[Any]:
+def what_new_task_generated_by_GPT(data: Dict[str, Any], **kwargs) -> List[Any]:
     results = []
-    img_file = os.path.join(IMG_SAVE_PATH, f"{data['id']}_{str(ID_COUNTER)}_{generated_by_GPT.__name__}.jpg")
+    img_file = os.path.join(IMG_SAVE_PATH, f"{data['id']}_{str(ID_COUNTER)}_{what_new_task_generated_by_GPT.__name__}.jpg")
 
     if os.path.isfile(img_file):
-        LOGGER.warning(f'img has been downloaded in {generated_by_GPT.__name__}: [{img_file}]')
+        LOGGER.warning(f'img has been downloaded in {what_new_task_generated_by_GPT.__name__}: [{img_file}]')
 
     if not download_img(
         data['img'],
@@ -20,42 +20,8 @@ def generated_by_GPT(data: Dict[str, Any], **kwargs) -> List[Any]:
         log_failed_img(str(ID_COUNTER), data['img'], img_file)
         # return results
 
-    keys = data.keys()
-    prompt = ''
-
-    for i in keys:
-        if i == 'title':
-            prompt += '标题：\n' + data[i] + '\n'
-        if i == 'description':
-            prompt += '描述：\n' + data[i] + '\n'
-        if i == 'tips':
-            if data[i]:
-                prompt += '诀窍：\n' + data[i] + '\n'
-        if i == 'components_nested':
-            if data[i]:
-                for k, v in data[i].items():
-                    prompt += k + '：\n'
-                    for l, s in v.items():
-                        prompt += l + s + ','
-                    prompt += '\n'
-        if i == 'components_flat':
-            if data[i]:
-                for k, v in data[i].items():
-                    prompt += k + '：' + 'v'
-                    prompt += '\n'
-        if i == 'steps':
-            if data[i]:
-                prompt += '步骤：\n'
-                for j in data[i]:
-                    prompt += j['description'] + '\n'
-        if i == 'comments':
-            if data[i]:
-                prompt += '评论：\n'
-                for j in data[i]:
-                    for k in j:
-                        prompt += k + '        '
-                    prompt += '\n'
-
+    cur_data_handle = DataProcessHandle(data)
+    prompt = str(cur_data_handle)
 
     gpt = GPT()
     response = gpt.answer(RAW_PROMPT + '\n' + prompt)
@@ -92,7 +58,7 @@ def generated_by_GPT(data: Dict[str, Any], **kwargs) -> List[Any]:
                 make_data_dict(
                     cur_id=str(ID_COUNTER),
                     cur_conversations=[
-                     '图：' + '<img>' + img_file + '</img>'+',' + final_response[i + 1],
+                        '图：<img>' + img_file + '</img>'+',' + final_response[i + 1],
                         final_response[i + 5]
                     ]
                 )
