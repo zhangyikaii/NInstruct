@@ -5,6 +5,7 @@ from inferencer.douguo import DouGuoInferencer
 from inferencer.xiachufang import XiachufangInferencer
 from inferencer.xinshipu import XinshipuInferencer
 from inferencer.meishijie import MeishiJieInferencer
+from inferencer.xiangha import XiangHaInferencer
 __all__ = [
     'BaseInferencer',
     'MeishiChinaInferencer',
@@ -12,7 +13,8 @@ __all__ = [
     'DouGuoInferencer',
     'XiachufangInferencer',
     'XinshipuInferencer',
-    'MeishiJieInferencer'
+    'MeishiJieInferencer',
+    'XiangHaInferencer'
     ]
 
 EXP_STR2CLASS_NAME = {
@@ -21,5 +23,6 @@ EXP_STR2CLASS_NAME = {
     'douguo':'DouGuoInferencer',
     'xiachufang': 'XiachufangInferencer',
     'xinshipu': 'XinshipuInferencer',
-    'meishijie': 'MeishiJieInferencer'
+    'meishijie': 'MeishiJieInferencer',
+    'xiangha': 'XiangHaInferencer'
 }

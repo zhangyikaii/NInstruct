@@ -6,7 +6,8 @@ DATA_PATHS = {
     'douguo': f'data/douguo',
     'xiachufang': f'data/xiachufang',
     'xinshipu': f'data/xinshipu',
-    'meishijie':f'data/meishijie'
+    'meishijie':f'data/meishijie',
+    'xiangha':f'data/xiangha'
 }
 
 JSON_SAVE_PATH = 'vllmnd'
