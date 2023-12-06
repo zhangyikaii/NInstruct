@@ -115,17 +115,12 @@ def make_data_dict(cur_id, cur_conversations):
         ]}
 
 def save_results(data, data_id2file_name) -> None:
-    # try:
-    #     with open(os.path.join(JSON_SAVE_PATH,'data.json')) as f:
-    #         existing_data = json.load(f)
-    # except FileNotFoundError:
-    #     existing_data = []
-    # existing_data.append(data)
-    # 如果要实现追加，把下面的data改成existing_data，并消除上面六行的注释即可。
     with open(os.path.join(JSON_SAVE_PATH, 'data.json'), 'w', encoding='utf-8') as json_file:
         json.dump(data, json_file, ensure_ascii=False, indent=4)
-    # 如果要实现追加，把w修改成a模式即可。
-    with open(os.path.join(JSON_SAVE_PATH, 'map.csv'), 'w', encoding='utf-8') as csv_file:
+    map_csv_file = os.path.join(JSON_SAVE_PATH, 'map.csv')
+    if not os.path.isfile(map_csv_file):
+        
+    with open(os.path.join(JSON_SAVE_PATH, 'map.csv'), 'a', encoding='utf-8') as csv_file:
         csv_file.write("data_id,file_name\n")
         for key, value in data_id2file_name.items():
             csv_file.write(f"{key},{value}\n")

@@ -1,13 +1,13 @@
 from pathlib import Path
 
 DATA_PATHS = {
-    'meishichina': f'data/meishichina',
-    'daydaycook': f'data/daydaycook',
-    'douguo': f'data/douguo',
-    'xiachufang': f'data/xiachufang',
-    'xinshipu': f'data/xinshipu',
-    'meishijie':f'data/meishijie',
-    'xiangha':f'data/xiangha'
+    'meishichina': f'/data/zhangyk/vllm/meishichina',
+    'daydaycook': f'/data/zhangyk/vllm/daydaycook',
+    'douguo': f'/data/zhangyk/vllm/douguo',
+    'xiachufang': f'/data/zhangyk/vllm/xiachufang',
+    'xinshipu': f'/data/zhangyk/vllm/xinshipu',
+    'shipuxiu': f'/data/zhangyk/vllm/shipuxiu',
+    'meishijie':f'data/meishijie'
 }
 
 JSON_SAVE_PATH = 'vllmnd'
@@ -16,7 +16,7 @@ IMG_DOWNLOAD_FAILED_LOGS = 'vllmnd/img_download_failed.csv'
 Path(IMG_SAVE_PATH).mkdir(parents=True, exist_ok=True)
 
 
-OPEN_AI_KEY = 'sk-' # NOTE: DO NOT UPLOAD
+OPEN_AI_KEY = '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' # NOTE: DO NOT UPLOAD
 
 RAW_PROMPT = '''{请基于数据描述和一些示例任务，设计更多任务，并以一个字典返回，包括指令、输入和输出字段，其中示例数据描述和示例任务都是例子。
 示例数据描述：

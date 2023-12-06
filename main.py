@@ -2,6 +2,7 @@ import re
 import os
 import glob
 import json
+from tqdm import tqdm
 from pathlib import Path
 from typing import List
 from utils import download_img, get_class_from_module, save_results, get_command_line_parser, pprint
@@ -21,7 +22,7 @@ class GenerateInstances():
     def run(self, **fit_kwargs) -> None:
         results, results_data_id2file_name = [], {}
         files = glob.glob(os.path.join(DATA_PATHS[self.exp_str], "*.pkl"))
-        for pkl_file in files:
+        for pkl_file in tqdm(files):
             cur = self.inferencer.load(pkl_file)
             if not len(cur):
                 continue

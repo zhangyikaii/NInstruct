@@ -128,9 +128,6 @@ class XinshipuInferencer(BaseInferencer):
             if 'img' not in step_key:
                 cur_data['steps'][i]['img'] = ''
 
-        if len(cur_data['steps']) != 0:
-            print(cur_data['steps'])
-
         # NOTE: 完善类型检查
         assert isinstance(cur_data['title'], str)
 

@@ -14,6 +14,7 @@ def what_are_step_imgs_doing(
     if len(data['steps']) == 0:
         return results
 
+    what_are_step_num_imgs = min(len(data['steps']), what_are_step_num_imgs)
     for _ in range(what_are_step_num_iters):
         cur_sampled = random.sample(range(len(data['steps'])), what_are_step_num_imgs)
         img_file_list = []

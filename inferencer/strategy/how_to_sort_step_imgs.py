@@ -13,6 +13,7 @@ def how_to_sort_step_imgs(
     results = []
     if len(data['steps']) == 0:
         return results
+    how_to_sort_num_sorted_imgs = min(len(data['steps']), how_to_sort_num_sorted_imgs)
     for _ in range(how_to_sort_num_iters):
         cur_sampled = random.sample(range(len(data['steps'])), how_to_sort_num_sorted_imgs)
         img_file_list = []
