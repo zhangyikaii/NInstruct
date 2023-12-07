@@ -1,24 +1,26 @@
 import os
 from typing import List, Any, Dict
 
-from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, GPT, remove_non_chinese_digits, log_failed_img, DataProcessHandle
+from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, GPT, remove_non_chinese_digits, log_failed_img, DataProcessHandle, log_img
 from configs import IMG_SAVE_PATH, RAW_PROMPT
 import re
 
 def what_new_task_generated_by_GPT(data: Dict[str, Any], **kwargs) -> List[Any]:
     results = []
-    img_file = os.path.join(IMG_SAVE_PATH, f"{data['id']}_{str(ID_COUNTER)}_{what_new_task_generated_by_GPT.__name__}.jpg")
 
-    if os.path.isfile(img_file):
-        LOGGER.warning(f'img has been downloaded in {what_new_task_generated_by_GPT.__name__}: [{img_file}]')
+    img_file_name = log_img(data['img'])
+    img_file = os.path.join(IMG_SAVE_PATH, img_file_name)
 
-    if not download_img(
-        data['img'],
-        img_file
-        ):
-        LOGGER.debug(f"img download failed, url: [{data['img']}]")
-        log_failed_img(str(ID_COUNTER), data['img'], img_file)
-        # return results
+    # if os.path.isfile(img_file):
+    #     LOGGER.warning(f'img has been downloaded in {what_new_task_generated_by_GPT.__name__}: [{img_file}]')
+
+    # if not download_img(
+    #     data['img'],
+    #     img_file
+    #     ):
+    #     LOGGER.debug(f"img download failed, url: [{data['img']}]")
+    #     log_failed_img(str(ID_COUNTER), data['img'], img_file)
+    #     # return results
 
     cur_data_handle = DataProcessHandle(data)
     prompt = str(cur_data_handle)

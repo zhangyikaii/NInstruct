@@ -10,17 +10,39 @@ from argparse import ArgumentParser
 from typing import List, Any, Dict
 import openai
 
-from configs import JSON_SAVE_PATH, OPEN_AI_KEY, IMG_DOWNLOAD_FAILED_LOGS
+import configs
+from configs import OPEN_AI_KEY, IMG_DOWNLOAD_FAILED_LOGS, IMG_DOWNLOAD_TODO
+
+import hashlib
+
+def generate_hash(url):
+    sha256 = hashlib.sha256()
+    sha256.update(url.encode('utf-8'))
+
+    hash_code = sha256.hexdigest()
+
+    return hash_code
 
 class Counter:
-    def __init__(self):
+    def __init__(self, prev_str: str = ''):
         self.count = 0
+        self.prev_str = prev_str
+
+    def set_str(self, prev_str: str):
+        self.prev_str = prev_str
 
     def increment(self):
         self.count += 1
 
+    def config(self, count: int):
+        self.count = count
+
+    def str2int(self, cur_str):
+        return int(cur_str.replace(f'{self.prev_str}_', ''))
+
     def __str__(self):
-        return f'{self.count:010d}'
+        return f'{self.prev_str}_{self.count:010d}'
+
 
 class GPT:
     def __init__(self):
@@ -33,6 +55,7 @@ class GPT:
 
 
 ID_COUNTER = Counter()
+IMG_FILES = {}
 
 import logging
 
@@ -71,6 +94,16 @@ def remove_non_chinese_digits(text):
     # 使用正则表达式匹配非数字和非中文字符并替换为空格
     cleaned_text = re.sub(r'[^\u4e00-\u9fff0-9]', '', text)
     return cleaned_text
+
+def log_img(url: str):
+    global IMG_FILES
+    if url not in IMG_FILES.keys():
+        dest_file = generate_hash(url) + '.jpg'
+        with open(IMG_DOWNLOAD_TODO, 'a') as f:
+            f.write(f'{url},{dest_file}\n')
+        IMG_FILES[url] = dest_file
+
+    return IMG_FILES[url]
 
 def download_img(url: str, dest_file: str):
     if not os.path.isfile(dest_file):
@@ -115,13 +148,13 @@ def make_data_dict(cur_id, cur_conversations):
         ]}
 
 def save_results(data, data_id2file_name) -> None:
-    with open(os.path.join(JSON_SAVE_PATH, 'data.json'), 'w', encoding='utf-8') as json_file:
+    with open(os.path.join(configs.JSON_SAVE_PATH, 'data.json'), 'w', encoding='utf-8') as json_file:
         json.dump(data, json_file, ensure_ascii=False, indent=4)
-    map_csv_file = os.path.join(JSON_SAVE_PATH, 'map.csv')
-    if not os.path.isfile(map_csv_file):
-        
-    with open(os.path.join(JSON_SAVE_PATH, 'map.csv'), 'a', encoding='utf-8') as csv_file:
-        csv_file.write("data_id,file_name\n")
+    map_csv_file = os.path.join(configs.JSON_SAVE_PATH, 'map.csv')
+    write_map_csv_header = True if not os.path.isfile(map_csv_file) else False
+    with open(map_csv_file, 'a', encoding='utf-8') as csv_file:
+        if write_map_csv_header:
+            csv_file.write("data_id,file_name\n")
         for key, value in data_id2file_name.items():
             csv_file.write(f"{key},{value}\n")
 

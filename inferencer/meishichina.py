@@ -49,4 +49,3 @@ class MeishiChinaInferencer(BaseInferencer):
             cur_data['steps'][i]['description'] = preprocess_text(preprocess_strip_begin_numbers(cur_data['steps'][i]['description']))
         
         return cur_data
-

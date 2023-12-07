@@ -2,31 +2,34 @@ import os
 from typing import List, Any, Dict
 import random
 
-from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, log_failed_img
+from utils import download_img, make_data_dict, ID_COUNTER, LOGGER, log_failed_img, log_img
 from configs import IMG_SAVE_PATH
 
 
-def what_is_next_step_with_img(data: Dict[str, Any], **kwargs) -> List[Any]:
+def what_is_next_step_with_img(data: Dict[str, Any], what_is_next_step_num_iters: int = 1, **kwargs) -> List[Any]:
     results = []
     if len(data['steps']) == 0:
         return results
 
-    for i in range(len(data['steps']) - 1):
+    cur_steps = random.sample(
+        list(range(len(data['steps']) - 1)),
+        min(what_is_next_step_num_iters, len(data['steps']) - 1)
+        )
+    for i in cur_steps:
         cur_step = data['steps'][i]
         next_step = data['steps'][i + 1]
-        img_file = os.path.join(
-            IMG_SAVE_PATH,
-            f"{data['id']}_{str(ID_COUNTER)}_{what_is_next_step_with_img.__name__}_{i}.jpg"
-        )
 
-        if os.path.isfile(img_file):
-            LOGGER.warning(
-                f'img has been downloaded in {what_is_next_step_with_img.__name__}: [{img_file}]'
-            )
+        img_file_name = log_img(cur_step['img'])
+        img_file = os.path.join(IMG_SAVE_PATH, img_file_name)
 
-        if not download_img(cur_step['img'], img_file):
-            LOGGER.debug(f"img download failed, url: [{cur_step['img']}]")
-            log_failed_img(str(ID_COUNTER), cur_step['img'], img_file)
+        # if os.path.isfile(img_file):
+        #     LOGGER.warning(
+        #         f'img has been downloaded in {what_is_next_step_with_img.__name__}: [{img_file}]'
+        #     )
+
+        # if not download_img(cur_step['img'], img_file):
+        #     LOGGER.debug(f"img download failed, url: [{cur_step['img']}]")
+        #     log_failed_img(str(ID_COUNTER), cur_step['img'], img_file)
 
         results.append(
             make_data_dict(

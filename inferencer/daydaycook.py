@@ -1,6 +1,6 @@
 from typing import Dict, Any, List
 
-from utils import load_pickle, preprocess_text
+from utils import load_pickle, preprocess_text, preprocess_strip_begin_numbers
 from inferencer import BaseInferencer
 import re
 import zhconv
@@ -99,7 +99,7 @@ class DaydaycookInferencer(BaseInferencer):
         for key in cur_data['components_flat'].keys():
             cur_data['components_flat'][key] = self.preprocess(cur_data['components_flat'][key])
         for i in range(len(cur_data['steps'])):
-            cur_data['steps'][i]['description'] = self.preprocess(cur_data['steps'][i]['description'])
+            cur_data['steps'][i]['description'] = self.preprocess(preprocess_strip_begin_numbers(cur_data['steps'][i]['description']))
         for i in range(len(cur_data['comments'])):
             cur_data['comments'][i] = [self.preprocess(cur_data['comments'][i][j]) for j in range(len(cur_data['comments'][i]))]
         # print(cur_data)

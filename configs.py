@@ -1,7 +1,7 @@
 from pathlib import Path
 
 DATA_PATHS = {
-    'meishichina': f'/data/zhangyk/vllm/meishichina',
+    'meishichina': f'data/meishichina',
     'daydaycook': f'/data/zhangyk/vllm/daydaycook',
     'douguo': f'/data/zhangyk/vllm/douguo',
     'xiachufang': f'/data/zhangyk/vllm/xiachufang',
@@ -13,6 +13,8 @@ DATA_PATHS = {
 JSON_SAVE_PATH = 'vllmnd'
 IMG_SAVE_PATH = 'vllmnd/imgs'
 IMG_DOWNLOAD_FAILED_LOGS = 'vllmnd/img_download_failed.csv'
+IMG_DOWNLOAD_TODO = 'vllmnd/imgs.csv'
+
 Path(IMG_SAVE_PATH).mkdir(parents=True, exist_ok=True)
 
 
